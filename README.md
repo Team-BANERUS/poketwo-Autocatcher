@@ -1,5 +1,3 @@
-![logo](https://media3.giphy.com/media/92gTmYI21iZKls58oa/giphy.gif)
-
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>HaileyBot</h1>
   
 ![Status][status] ![Uptime][uptime] ![Hits][hits]  
