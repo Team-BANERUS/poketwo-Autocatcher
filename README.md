@@ -1,6 +1,6 @@
 ![logo](https://media3.giphy.com/media/92gTmYI21iZKls58oa/giphy.gif)
 
-<img src="https://media3.giphy.com/media/92gTmYI21iZKls58oa/giphy.gif" align="left" height="160px"><h1>HaileyBot</h1>
+<img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>HaileyBot</h1>
   
 ![Status][status] ![Uptime][uptime] ![Hits][hits]  
 ![Servers][servers] ![Version][version] ![License][license]  
@@ -33,7 +33,7 @@ n make bot say anything u want (  for ex:- +say p!info latest, +say p!trade  )
 
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
 ![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
-![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038260457209856/20201122_171216_edited.jpg)
+![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
 ![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
 ![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
 # Feature
