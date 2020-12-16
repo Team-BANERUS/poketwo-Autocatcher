@@ -1,5 +1,10 @@
 ![logo](https://media3.giphy.com/media/92gTmYI21iZKls58oa/giphy.gif)
 
+<img src="https://www.haileybot.com/images/haileybot.png" align="left" height="160px"><h1>HaileyBot</h1>
+  
+![Status][status] ![Uptime][uptime] ![Hits][hits]  
+![Servers][servers] ![Version][version] ![License][license]  
+
 # Poketwo-Autocatcher
 This selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot.
 
