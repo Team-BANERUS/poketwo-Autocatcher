@@ -79,6 +79,24 @@ Thank you all for being patient and sticking around until now.
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll Just need to start the bot.
 
+## Features (TO DO)
+1. Automatically catch a Pokemon in whichever server you are in if the PokeCord bot spawns a Pokemon. [Premium Only]
+2. Delay and catch rates to finesse the behaviour of the selfbot.
+3. A log command to log all your Pokemon along with their numbers.
+4. A trade command to bulk trade the Pokemon to your main account.
+5. Priority List to control the Pokemon you catch and trade.
+6. Toggle catching of duplicates.
+7. Mass release of thrash Pokemon. (Limited)
+8. Toggle autocatching to use in Command_Only mode.
+9. Blacklist and Whitelist channels to control the scope of the selfbot. And a toggler function for the switch.
+10. Toggle priority_only mode.
+11. List out all the legendaries you've caught so far.
+12. A gift command to send credits. (isolated to prevent conflict with Trade)
+13. Blacklist/Whitelist toggle for entire guilds.
+14. Toggle Autolog after catching new Pokemon.
+15. Case-insensitive Commands. (Args are still sensitive.)
+16. Auto-updates available.
+
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned. Be careful about how you use the bot.
