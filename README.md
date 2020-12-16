@@ -22,7 +22,7 @@
   
 ![Status][status]
 ![Uptime][uptime] ![Hits][hits]  
-![Servers][servers] ![Version][version] ![License][license]  
+![Servers][servers] ![Version][https://img.shields.io/badge/Maintained%3F-Premium%20Version+-red.svg?style=for-the-badge] ![License][license]  
 </br>
 </br>
 # ABOUT
