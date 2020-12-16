@@ -3,7 +3,7 @@
 ![Status][status] ![Uptime][uptime] ![Hits][hits]  
 ![Servers][servers] ![Version][version] ![License][license]  
 
-# Poketwo-Autocatcher
+# ABOUT
 This selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot.
 
 ---
