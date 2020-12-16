@@ -1,3 +1,23 @@
+<!--
+  Title: PokeBall SelfBot
+  Description: This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeCord bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
+  Author: Hyperclaw79
+  Logo: https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot/master/assets/PokeballSelfbot_Logo.png
+  Tags: discord-bot, discord, selfbot, pokeball-selfbot, pokecord, python, pokemon, pokecord-discord-bot, catch-pokemon, pokecord-hack,
+        discord bot, pokecord discord bot, catch pokemon, pokecord hack, discord-bot, pokecord-bot, autocatcher, premium, auto-trade,
+        donations, pokecord-catcher, pokecord-autocatcher, pokecord-selfbot
+-->
+<meta name="description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeCord bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
+<meta name="keywords" content="discord-bot, discord, selfbot, pokeball-selfbot, pokecord, python, pokemon, pokecord-discord-bot, catch-pokemon, pokecord-hack, discord bot, pokecord discord bot, catch pokemon, pokecord hack, discord-bot, pokecord-bot, autocatcher, premium, auto-trade, donations, pokecord-catcher, pokecord-autocatcher, pokecord-selfbot"/>
+<meta name="author" content="Hyperclaw79"/>
+<meta name="url" content="https://github.com/Hyperclaw79/PokeBall-SelfBot" />
+<meta name="og:title" content="Pokeball SelfBot"/>
+<meta name="og:url" content="https://github.com/Hyperclaw79/PokeBall-SelfBot" />
+<meta name="og:image" content=" https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot/master/assets/PokeballSelfbot_Logo.png" />
+<meta name="og:description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeCord bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
+<meta name="google-site-verification" content="EEaJ4rxZqFULJehFinFFOpxt75EdXvYh-bE2t3FoADA" />
+
+
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo Autocatcher</h1>
   
 ![Status][status]
