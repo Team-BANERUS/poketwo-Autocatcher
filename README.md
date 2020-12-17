@@ -31,7 +31,7 @@
 </br>
 <!--
 # comment
--->
+
 <img src="https://poketwo.net/_next/static/images/logo-65e7f1b5294ecdfe44309cc279d0f8ee.png" align="right" height="120px"><h1>ABOUT</h1>
 This selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot.
 
@@ -41,7 +41,7 @@ This selfbot was designed to automatically catch Pokemon spawned on Discord by P
 
 **Premium Version**: `v7.0.0` (30th October 2020) (Autocatcher uses Artificial Intelligence now!)
   > **The `autocatcher` is now officially fixed and is a Premium Version only feature.**
-  It was troublesome fixing this again and again as the open source code is easily readable and patched against. To avoid this in the future, autocatcher is now a Premium feature to make it harder to get. I know that most of you will hate this move, but it was necessary. You guys can continue using the other features like auto-trade and auto-release, etc. which do not really harm anyone.
+  I  was fixing this again and again as the open source code is easily readable by anyone and gets patched repeatedly. To avoid this in the future, Autocatcher is now a Premium feature to make it harder to get. I know that most of you will hate this move, but it was necessary. You guys can continue using the other features like auto-trade and auto-release, etc. which do not really harm anyone.
 Thank you all for being patient and sticking around until now.
 
 
