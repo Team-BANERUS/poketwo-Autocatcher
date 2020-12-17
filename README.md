@@ -19,17 +19,19 @@
 
 
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo Autocatcher</h1>
-<img src="https://poketwo.net/_next/static/images/logo-65e7f1b5294ecdfe44309cc279d0f8ee.png" align="right" height="120px"><h1>Pokétwo</h1>
+
 ![Status][status]
 
 ![Uptime][uptime] 
 ![Hits][hits]  
 ![Servers][servers] 
 </br>
-![Version][https://img.shields.io/badge/Maintained%3F-Premium%20Version+-red.svg?style=for-the-badge] ![License][license]  
+![Version][version] ![License][license]  
 </br>
 </br>
+<!--
 # ABOUT
+-->
 <img src="https://poketwo.net/_next/static/images/logo-65e7f1b5294ecdfe44309cc279d0f8ee.png" align="right" height="120px"><h1>Pokétwo</h1>
 This selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot.
 
