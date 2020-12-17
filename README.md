@@ -25,7 +25,7 @@
 ![Uptime][uptime] 
 ![Hits][hits]  
 ![Servers][servers] 
-</br>
+</br
 ![Version][version] ![License][license]  
 </br>
 </br>
