@@ -20,7 +20,7 @@
 
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo Autocatcher</h1>
 
-![https://img.shields.io/badge/Status-99.99%25%20uptime-Green][https://img.shields.io/badge/Status-99.99%25%20uptime-Green]
+![samp][https://img.shields.io/github/issues/Team-BANERUS/poketwo-Autocatcher]
 
 ![Uptime][uptime] 
 ![Hits][hits]  
