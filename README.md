@@ -76,7 +76,7 @@ Thank you all for being patient and sticking around until now.
  - Multiple commands to make it easy.
  - Log error in a debug file (in case of glitch).
  - Easy setup (no need to open any text file).
--the Autocatcher is 24/7( it works 24 hours a day).
+- the Autocatcher is 24/7( it works 24 hours a day).
 -The bot restart by itself, if it stops.
 -Be notified when a pokémon is detected.
 -Undetectable
