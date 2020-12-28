@@ -80,8 +80,12 @@ Thank you all for being patient and sticking around until now.
 -The bot restart by itself, if it stops.
 -Be notified when a pokémon is detected.
 -Undetectable
+custom delay to fitness the behavior.
 -Regularly maintained.
 -you can make bot say anything u want ( for ex:- +say p!info latest, +say p!trade )
+-mass trade pokemon.
+-whitelist/blacklist the server where to catch!
+-`specially designed for customer satisfaction`
 
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
