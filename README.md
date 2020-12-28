@@ -62,7 +62,7 @@ Thank you all for being patient and sticking around until now.
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll Just need to start the bot.
 
-## Features (TO DO)
+## Features
  - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
  - Automatically catch them all (With a set delay).
  - Be notified when a pokémon is spawned.
