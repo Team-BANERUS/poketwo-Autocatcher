@@ -39,7 +39,7 @@ This selfbot was designed to automatically catch Pokemon spawned on Discord by P
 
 ---
 
-**Premium Version**: `v1.7.0` (30th October 2020) (Autocatcher uses Artificial Intelligence now!)
+**Premium Version**: `v1.7.0` (21th December 2020) (Autocatcher uses Artificial Intelligence now!)
   > **The `autocatcher` is now officially fixed and is a Premium Version only feature.**
   This bot is premium catcher but it was necessary. You guys can continue using the other features like in free trial.Img and hashes will definitely FAIL! PROUD TO INTRODUCE AI POWERED DISCORD Autocatcher BOT!
 Thank you all for being patient and sticking around until now.
