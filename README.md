@@ -49,8 +49,7 @@ Thank you all for being patient and sticking around until now.
 ![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
 ![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
 ![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
-# xyz
-
+# Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
 # How to get it
 1. Join Our discord server.
 2. star this repo and Paypal me.
