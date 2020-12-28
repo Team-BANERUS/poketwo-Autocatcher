@@ -64,22 +64,24 @@ Thank you all for being patient and sticking around until now.
 - For further configuration you'll Just need to start the bot.
 
 ## Features (TO DO)
-1. Automatically catch a Pokemon in whichever server you are in if the PokeCord bot spawns a Pokemon. [Premium Only]
-2. Delay and catch rates to finesse the behaviour of the selfbot.
-3. A log command to log all your Pokemon along with their numbers.
-4. A trade command to bulk trade the Pokemon to your main account.
-5. Priority List to control the Pokemon you catch and trade.
-6. Toggle catching of duplicates.
-7. Mass release of thrash Pokemon. (Limited)
-8. Toggle autocatching to use in Command_Only mode.
-9. Blacklist and Whitelist channels to control the scope of the selfbot. And a toggler function for the switch.
-10. Toggle priority_only mode.
-11. List out all the legendaries you've caught so far.
-12. A gift command to send credits. (isolated to prevent conflict with Trade)
-13. Blacklist/Whitelist toggle for entire guilds.
-14. Toggle Autolog after catching new Pokemon.
-15. Case-insensitive Commands. (Args are still sensitive.)
-16. Auto-updates available.
+ - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
+ - Automatically catch them all (With a set delay).
+ - Be notified when a pokémon is spawned.
+ - automatically/Manually catch pokémon.
+ - An auto leveler will level your pokémon.
+ - You can specify which pokémon to level up first.
+ - Use the program on multiple accounts.
+ - Spam multiple random messages using semicolons as separator (1;2;3).
+ - Can deal with high amounts of Pokémon.
+ - Multiple commands to make it easy.
+ - Log error in a debug file (in case of glitch).
+ - Easy setup (no need to open any text file).
+-the Autocatcher is 24/7( it works 24 hours a day).
+-The bot restart by itself, if it stops.
+-Be notified when a pokémon is detected.
+-Undetectable
+-Regularly maintained.
+-you can make bot say anything u want ( for ex:- +say p!info latest, +say p!trade )
 
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
