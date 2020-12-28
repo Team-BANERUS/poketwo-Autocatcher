@@ -44,23 +44,6 @@ This selfbot was designed to automatically catch Pokemon spawned on Discord by P
   I  was fixing this again and again as the open source code is easily readable by anyone and gets patched repeatedly. To avoid this in the future, Autocatcher is now a Premium feature to make it harder to get. I know that most of you will hate this move, but it was necessary. You guys can continue using the other features like auto-trade and auto-release, etc. which do not really harm anyone.
 Thank you all for being patient and sticking around until now.
 
-
-# Feature
-# 1. Ignore server or channel by IDs. (channels it should work only)
-
-# 2. Automatically Catch All pokemons! (Poketwo Autocatcher)
-
-# 3.check Balance,pokes that the bot has caught.
-
-# 4. it works 24 hours a day!
-
-# 5. Regularly maintained.
-
-# 6.you can make bot say anything u want (  for ex:- +say p!info latest, +say p!trade  )
-# n make bot say anything u want (  for ex:- +say p!info latest, +say p!trade  )
-
-# 7.Many more...
-
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
 ![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
 ![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
