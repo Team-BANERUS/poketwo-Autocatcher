@@ -20,13 +20,8 @@
 
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo Autocatcher</h1>
 
-![samp][https://img.shields.io/github/issues/Team-BANERUS/poketwo-Autocatcher]
-
-![Uptime][uptime] 
-![Hits][hits]  
-![Servers][servers] 
 </br>
-![Version][version] ![License][license]  
+STATUS: online  ||  Uptime: 99.99%
 </br>
 </br>
 <!--
