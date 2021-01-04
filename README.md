@@ -27,6 +27,7 @@
 # comment
 -->
 > Current Version: 2.1.1
+
 <img src="https://poketwo.net/_next/static/images/logo-65e7f1b5294ecdfe44309cc279d0f8ee.png" align="right" height="120px"><h1>ABOUT</h1>
 This bot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot.
 ### Official website:- will be released soon!
