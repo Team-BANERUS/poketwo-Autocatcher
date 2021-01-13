@@ -18,7 +18,7 @@
 <meta name="google-site-verification" content="EEaJ4rxZqFULJehFinFFOpxt75EdXvYh-bE2t3FoADA" />
 
 
-<img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo Autocatcher</h1>
+<img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo ∆ Autocatcher</h1>
 </br>
 ~ By BANERUS
 </br>
