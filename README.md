@@ -69,7 +69,7 @@ custom delay to fitness the behavior.
 # Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
 
 # How to get it
-1. Join Our discord server.
+1. Join Our discord server /  Start a discussion in the repo.
 2. star this repo and Paypal me.
 3. If you want me to setup, feel free to send me a DM.
 
