@@ -78,6 +78,8 @@ custom delay to fitness the behavior.
 
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll Just need to start the bot.
+## Settings Explained:-
+- Will write
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned. Be careful about how you use the bot.
