@@ -82,6 +82,7 @@ custom delay to fitness the behavior.
 
 ## Perks
 - documentation
+- Request New Features
 - Will write 
 
 ## Settings Explained:-
