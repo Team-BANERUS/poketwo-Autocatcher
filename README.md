@@ -58,6 +58,7 @@ custom delay to fitness the behavior.
 - you can make bot say anything u want ( for ex:- +say p!info latest, +say p!trade )
 - mass trade pokemon.
 - whitelist/blacklist the server where to catch!
+- Special Perks (scroll down) ||test||
 - ```specially designed for customer satisfaction```
 
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
