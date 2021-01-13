@@ -28,7 +28,7 @@
 -->
 > `Current Version:` 2.1.1
 
-<img src="https://poketwo.net/_next/static/images/logo-65e7f1b5294ecdfe44309cc279d0f8ee.png" align="right" height="120px"><h1>ABOUT</h1>
+<img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" align="right" height="120px"><h1>ABOUT</h1>
 This bot was designed to Autocatch Pokétwo spawns but It is loaded with versatile and huge functions/Utilities With ease to handle.
 ### Official website:- will be released soon!
 
