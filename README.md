@@ -59,6 +59,7 @@ custom delay to fitness the behavior.
 - mass trade pokemon.
 - whitelist/blacklist the server where to catch!
 - Special Perks (scroll down) 
+> More Special Perks below!
 - ```specially designed for customer satisfaction```
 
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
