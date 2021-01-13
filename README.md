@@ -82,7 +82,8 @@ custom delay to fitness the behavior.
 - For further configuration you'll Just need to start the bot.
 
 ## Perks
-- documentation
+> **Perks are some extra features including Autocatcher given to You!
+- documentations
 - Request New Features
 - Will write 
 
