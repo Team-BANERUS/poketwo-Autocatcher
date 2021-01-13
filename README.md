@@ -29,8 +29,7 @@
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" align="right" height="120px"><h1>ABOUT</h1>
 This bot was designed to Autocatch Pokétwo spawns but It is loaded with versatile and huge functions/Utilities With ease to handle.
 > **`Current Version:` 2.1.1**
-### Official website:- will be released soon!
-
+### Official website:- will be released soon! am
 ---
 
 **Premium Version**: `v1.7.0` (21th December 2020) (Autocatcher uses Artificial Intelligence now!)
