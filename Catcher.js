@@ -35,7 +35,7 @@ client.on('message', message => {
         message.embeds.forEach(function(e) {
           console.log(e);
           if (e.title && e.title.startsWith('A wild')) {
-            message.channel.send('p!catch ${ai.guesses.pokemon}');				
+            message.channel.send('p!catch ${ai.name.pokemon}');				
           }
         });
       }
