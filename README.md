@@ -39,13 +39,6 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
   This bot is premium catcher but it was necessary. You guys can continue using the other features like in free trial.Img and hashes will definitely FAIL! PROUD TO INTRODUCE AI POWERED DISCORD Autocatcher BOT!
 Thank you all for being patient and sticking around until now.
 
-![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
-![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
-![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
-![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
-![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
-# Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
-
 ## Features
  - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
  - Automatically catch them all (With a set delay).
@@ -69,6 +62,13 @@ custom delay to fitness the behavior.
 - mass trade pokemon.
 - whitelist/blacklist the server where to catch!
 - ```specially designed for customer satisfaction```
+
+![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
+![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
+![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
+![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
+![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
+# Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
 
 # How to get it
 1. Join Our discord server.
