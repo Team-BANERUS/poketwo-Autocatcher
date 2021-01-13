@@ -23,7 +23,7 @@
 ![Status][status]
 
 ![Uptime][uptime] 
-![Hits][hits]  
+![Hits][his]  
 ![Servers][servers] 
 </br>
 ![Version][version] ![License][license]  
