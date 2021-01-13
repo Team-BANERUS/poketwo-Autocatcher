@@ -67,10 +67,6 @@ custom delay to fitness the behavior.
 ![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
 # Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
 
-## Perks
-- documentation
-- Will write 
-
 # How to get it
 1. Join Our discord server.
 2. star this repo and Paypal me.
@@ -82,6 +78,11 @@ custom delay to fitness the behavior.
 
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll Just need to start the bot.
+
+## Perks
+- documentation
+- Will write 
+
 ## Settings Explained:-
 - Will write
 # Disclaimer
