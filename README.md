@@ -45,17 +45,6 @@ Thank you all for being patient and sticking around until now.
 ![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
 ![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
 # Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
-# How to get it
-1. Join Our discord server.
-2. star this repo and Paypal me.
-3. If you want me to setup, feel free to send me a DM.
-
-# Discord Server
-1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p)
-# Setting Up
-
-- You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
-- For further configuration you'll Just need to start the bot.
 
 ## Features
  - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
@@ -81,6 +70,17 @@ custom delay to fitness the behavior.
 - whitelist/blacklist the server where to catch!
 - ```specially designed for customer satisfaction```
 
+# How to get it
+1. Join Our discord server.
+2. star this repo and Paypal me.
+3. If you want me to setup, feel free to send me a DM.
+
+# Discord Server
+1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p)
+# Setting Up
+
+- You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
+- For further configuration you'll Just need to start the bot.
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned. Be careful about how you use the bot.
