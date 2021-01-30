@@ -4,7 +4,7 @@
   Author: Hope nexus
   Logo: https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot/master/assets/PokeballSelfbot_Logo.png
   Tags: discord-bot, discord, selfbot, pokeball-selfbot, pokecord, python, pokemon, pokecord-discord-bot, catch-pokemon, pokecord-hack,
-        discord bot, pokecord discord bot, catch pokemon, pokecord hack, discord-bot, pokecord-bot, autocatcher, premium, auto-trade,
+       discord bot, pokecord discord bot, catch pokemon, pokecord hack, discord-bot, pokecord-bot, autocatcher, premium, auto-trade,
         donations, pokecord-catcher, pokecord-autocatcher, pokecord-selfbot
 -->
 <meta name="description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
