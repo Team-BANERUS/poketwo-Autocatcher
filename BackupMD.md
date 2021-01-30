@@ -19,14 +19,9 @@
 
 
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo Autocatcher</h1>
+:bangbang: | Pokétwo is currently undergoing a full rewrite—if you're looking to contribute, please be advised that I do not intend to make too many changes to the current version.
+:---: | :---
 
-![Status][status]
-
-![Uptime][uptime] 
-![Hits][his]  
-![Servers][servers] 
-</br>
-![Version][version] ![License][license]  
 </br>
 </br>
 <!--
