@@ -7,8 +7,10 @@
         poketwo discord bot, poketwo discord bot, catch pokemon, poketwo hack, discord-bot, poketwo-bot, autocatcher, premium, auto-trade,
         donations, poketwo-catcher, poketwo-autocatcher, poketwo-selfbot
 -->
+
 <meta name="description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
 <meta name="keywords" content="discord-bot, discord, selfbot, poketwo-selfbot, pokecord, python, pokemon, poketwo-discord-bot, catch-pokemon, poketwo-hack, discord bot, poketwo discord bot, catch pokemon, poketwo hack, discord-bot, poketwo-bot, autocatcher, premium, auto-trade, donations, pokecord-catcher, pokecord-autocatcher , free , poketwo-selfbot"/>
+
 <meta name="author" content="Team-banerus"/>
 <meta name="url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
 <meta name="og:title" content="Poketwo Autocatcher"/>
