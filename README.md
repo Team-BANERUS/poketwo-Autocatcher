@@ -70,7 +70,7 @@ custom delay to fitness the behavior.
 ![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
 ![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
 # Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version 
-:bangbang: | Pokétwo is currently undergoing a full rewrite—if you're looking to contribute, please b Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version
+:bangbang: | Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version
 :---: | :---
 
 # How to get it
