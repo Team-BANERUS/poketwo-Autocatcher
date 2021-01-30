@@ -6,6 +6,7 @@ const prefix = '+';
 const ai = './ai.js')
 //ai.js contains how to identify the pokemon: angel,area,direction.
 console.log("ready to catch pokes")
+console.log(".");
 
 client.on('message', message => {
   switch(message.author.bot) {
