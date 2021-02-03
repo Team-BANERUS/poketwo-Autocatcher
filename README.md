@@ -44,6 +44,7 @@ Thank you all for being patient and sticking around until now.
  - Be notified when a pokémon is spawned.
  - automatically/Manually catch pokémon.
  - An auto leveler will level your pokémon.
+ - Server joiner Via Invite.
  - You can specify which pokémon to level up first.
  - Use the program on multiple accounts.
  - Spam multiple random messages using semicolons as separator (1;2;3).
