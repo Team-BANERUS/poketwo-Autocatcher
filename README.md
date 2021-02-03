@@ -78,7 +78,7 @@ custom delay to fitness the behavior.
 
 # How to get it
 1. Join Our discord server /  Start a discussion in the repo.
-2. star this repo and Paypal me.
+2. star this repo and Paypal/Google pay me.
 3. If you want me to setup, feel free to send me a DM.
 
 # Discord Server
