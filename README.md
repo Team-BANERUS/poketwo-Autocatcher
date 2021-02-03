@@ -35,8 +35,8 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
 
 **Premium Version**: (Autocatcher uses Artificial Intelligence now!)
   > **The `autocatcher` is a Premium Version only feature.**
-  This bot is premium catcher. You guys can continue some free features In the Server. PROUD TO INTRODUCE AI POWERED DISCORD Autocatcher BOT!
-Thank you all for being patient and sticking around until now.
+  :bangbang: | Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version
+:---: | :---
 
 ## Features
  - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
