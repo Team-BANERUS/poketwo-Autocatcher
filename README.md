@@ -90,12 +90,11 @@ custom delay to fitness the behavior.
 
 ## Perks
 > **Perks are some extra features given to You!**
-- documentations
+- Documentations of settings and Other Worth stuff.
 - Request New Features
-- Will write 
+- Source code
+- Support and Queries
 
-## Settings Explained:-
-- Will write
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned. Be careful about how you use the bot.
