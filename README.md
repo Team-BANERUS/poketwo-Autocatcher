@@ -54,12 +54,14 @@ Thank you all for being patient and sticking around until now.
 - the Autocatcher is 24/7( it works 24 hours a day).
 - The bot restart by itself, if it stops.
 - Be notified when a pokémon is detected.
-- Undetectable
+- Undetectable and applies different Algorithms
 custom delay to fitness the behavior.
 - Regularly maintained.
 - you can make bot say anything u want ( for ex:- +say p!info latest, +say p!trade )
 - mass trade pokemon.
+- Auto Buy/Snipe Poketwo Market.
 - whitelist/blacklist the server where to catch!
+- Generate Any page Pokemon ids.
 - Special Perks (scroll down) 
 > More Special Perks below!
 - ```specially designed for customer satisfaction```
