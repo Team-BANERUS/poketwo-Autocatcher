@@ -29,11 +29,11 @@
 -->
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" align="right" height="120px"><h1>ABOUT</h1>
 This bot was designed to Autocatch Pokétwo spawns but It is loaded with versatile and huge functions/Utilities With ease to handle.
-> **`Current Version:` 2.1.1**
+> **`Current Version:` 3.1.1**
 ### Official website:- will be released soon! am
 ---
 
-**Premium Version**: `v1.7.0` (21th December 2020) (Autocatcher uses Artificial Intelligence now!)
+**Premium Version**: (Autocatcher uses Artificial Intelligence now!)
   > **The `autocatcher` is a Premium Version only feature.**
   This bot is premium catcher. You guys can continue some free features In the Server. PROUD TO INTRODUCE AI POWERED DISCORD Autocatcher BOT!
 Thank you all for being patient and sticking around until now.
