@@ -33,10 +33,9 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
 ### Official website:- will be released soon! am
 ---
 
-**Premium Version**: (Autocatcher uses Artificial Intelligence now!)
   > **The `autocatcher` is a Premium Version only feature.**
-  
-  :bangbang: | Best bot to exist till now. These screenshot are of version 1.0.0 ; check the current version
+
+  :bangbang: | This Bot works with the Current (2021) Poketwo and uses AI to catch Pokemons!
 :---: | :---
 
 ## Features
