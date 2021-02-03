@@ -34,8 +34,8 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
 ---
 
 **Premium Version**: `v1.7.0` (21th December 2020) (Autocatcher uses Artificial Intelligence now!)
-  > **The `autocatcher` is now officially fixed and is a Premium Version only feature.**
-  This bot is premium catcher but it was necessary. You guys can continue usingImg and hashes will definitely FAIL! PROUD TO INTRODUCE AI POWERED DISCORD Autocatcher BOT!
+  > **The `autocatcher` is a Premium Version only feature.**
+  This bot is premium catcher. You guys can continue some free features In the Server. PROUD TO INTRODUCE AI POWERED DISCORD Autocatcher BOT!
 Thank you all for being patient and sticking around until now.
 
 ## Features
