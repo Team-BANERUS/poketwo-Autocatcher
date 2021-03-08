@@ -5,7 +5,7 @@
   Logo: https://i.imgur.com/85PNo2N.png
   Tags: discord-bot, discord, selfbot, poketwo-selfbot, poketwo, python,js, pokemon, poketwo-discord-bot, catch-pokemon, poketwo-hack,
         poketwo discord bot, poketwo discord bot, catch pokemon, poketwo hack, discord-bot, poketwo-bot, autocatcher, premium, auto-trade,
-        donations, poketwo-catcher, poketwo-autocatcher, poketwo-selfbot
+        donations, poketwo-catcher, poketwo-autocatcher, poketwo-selfbot 
 -->
 
 <meta name="description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
@@ -16,7 +16,7 @@
 <meta name="og:title" content="Poketwo Autocatcher"/>
 <meta name="og:url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
 <meta name="og:image" content="https://i.imgur.com/85PNo2N.png" />
-<meta name="og:description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeCord bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
+<meta name="og:description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
 <meta name="google-site-verification" content="EEaJ4rxZqFULJehFinFFOpxt75EdXvYh-bE2t3FoADA" />
 
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo ∆ Autocatcher</h1>
