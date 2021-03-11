@@ -15,10 +15,10 @@
 <meta name="author" content="Team-banerus"/>
 <meta name="url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
 <meta name="og:title" content="Poketwo Autocatcher"/>
+<meta name="google-site-verification" content="xxxxxxxxxxxxxxxxxxxxx" />
 <meta name="og:url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
 <meta name="og:image" content="https://i.imgur.com/85PNo2N.png" />
 <meta name="og:description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
-<meta name="google-site-verification" content="EEaJ4rxZqFULJehFinFFOpxt75EdXvYh-bE2t3FoADA" />
 
 <img src="https://i.imgur.com/85PNo2N.png" align="left" height="160px"><h1>Pokétwo ∆ Autocatcher</h1>
 </br>
