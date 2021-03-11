@@ -80,9 +80,9 @@ custom delay to fitness the behavior.
 ```
 | [Catcher]     | [Leveler]     |[guild]|
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 3 is      | right-aligned | write |
+| col 2 is      | centered      |   wr |
+| zebra stripes | are neat      |    wri |
 __There are Plenty more customization Features not included__
 
 
