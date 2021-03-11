@@ -70,8 +70,8 @@ custom delay to fitness the behavior.
 ## Features
 
 2. Then, add your bot token in the `config.json`'s `"token"` key. Refer the tutorial below to get the token.
-    - The token should be withing the `""` like:
-      - `"token": "Mxy.23e2d3_2er3.sf4t4.....xyz"`
+    + The token should be withing the `""` like:
+      + `"token": "Mxy.23e2d3_2er3.sf4t4.....xyz"`
       - Make sure it's exactly within one pair of `""`.
 ```
 [Catcher]
