@@ -100,15 +100,15 @@ old ss
 
 # Discord Server
 1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p) `[Link will be Invalid - to solve :- Remove github.com/xyz/`and you will get `discord.gg/link` ]
-# Setting Up
 
-- You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
-- For further configuration you'll Just need to start the bot.
+# Setting Up
+1. There is a Documentation Given When you Purchase this Program to Adjust The Settings With Their Explanations.
 
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned (if that's the case I suggest you to switch/pause, but it rarely happens). Be careful about how you use the bot.
 3. I would not recommend use this self-bot in public servers (especially Official PokeTwo Servers)
+> The Intention to Create this Project was to give you a amplify Over Others and have the most Rare `Pokemons(shiny/legs/myth/ub/events)` and Wealth.(ignore Hoarding/Showing-off 100k+Pokes in Public `by p!profile` creating a Doubt)
 
 # Terms & Conditions
 1. You will receive the bot with the deployment instructions after the payment has been acknowledged.
