@@ -70,30 +70,30 @@ custom delay to fitness the behavior.
 ## Features
 * The Bot has Several Utilies/Features , So I have Divided them Into some Categories for Easy Lisiting:
   + Auto-Catcher [Major] 
-      - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
-      - Automatically catch them all (With a set delay/Random).
-      - Can deal with high amounts of Pokémon [INTENSE]
-      - **Undetectable and applies different Algorithms+custom delay to fitness the behavior.[leveler,autocatcher,auto-market]**
+      - Recognize Pokémons `(Alolan - Galarian - Gen 7 included).`
+      - Automatically catch them all `(With a set delay/Random).`
+      - Can deal with high amounts of Pokémon `[INTENSE]`
+      - **Undetectable and applies different Algorithms+custom delay to fitness the behavior.`[leveler,autocatcher,auto-market]**`
       - An auto leveler will level your pokémon.
-      - You can specify which pokémon to level up first(list of pokeids).
-      - Spam multiple random messages using semicolons as separator (1;2;3).
+      - You can specify which pokémon to level up first`(list of pokeids).`
+      - Spam multiple random messages using semicolons as `separator (1;2;3).`
       - Be notified when a pokémon is detected.
       - A Channel Logger to Logs Pokemon it has Caught
-      - A DM logger to DM you when Legendary/mythical/custom-pokes/shiny are Caught
+      - A DM logger to DM you when `Legendary/mythical/custom-pokes/shiny` are Caught
       - Be notified when a pokémon is spawned.
       - Auto-Buy Market `(Customizable Settings- like IVS/LVLS/NAME/CHECK-INTERVAL/more)`
       - DM you before Buying the Pokemon `(in case of offline-can set Wait Command)`
       - Mass-Pokemon Sell Market `(Customizable Settings- Price/lvl/args/IV/name/more)`
       - Mass-Release Pokemon `(Customizable Settings - ignore-pkms/lvl/iv/name/time/reminder/more)`
       - Whitelist/Blacklist The Server to Catch/Work
-      - Generate Mass PokemonIDS (via page- p!p --gen)
+      - Generate Mass PokemonIDS of Specific Page`(via page- p!p)`
       - Mass Trade Pokemons Easily
       - Build-in Securities to Keep the Auto to Only respond to you/couple of people Allowed `(via - IDS in settings)`
       - Lesser Work Utilities such as - SERVER JOINER(via Invite) , `+say <cmnd>` to follow your command/text `(master-slave control)`
-      - The Bot Works 24HOURS a Day.(24/7)
+      - The Bot Works 24HOURS a Day.`(24/7)`
       - Use the program on multiple accounts.
-      - Log error in a debug file (in case of glitch).
-      - Easy setup (no need to open any text file)
+      - Log error in a debug file `(in case of glitch).`
+      - Easy setup `(no need to open any text file)`
       - The Auto-catcher can Restart itself,If it stops
       - Regularly maintained.
 ```
