@@ -70,6 +70,7 @@ custom delay to fitness the behavior.
 ## Features
 Auto-Catcher
     - The token should be withing the `""` like:
+    -       - `"token": "Mxy.23e2d3_2er3.sf4t4.....xyz"`
 ```
 [Catcher]
 [Leveler]
