@@ -79,11 +79,11 @@ __There are Plenty more customization and Features Available not included in thi
 old ss
 
 ## Compatible Devices
-| **🖥️ Computers :-** | **📱 Mobile/Phone** |
+| **🖥️ Computers :-** | **📱 Mobile/Phone/Tablets** |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Windows | Android |
+| Linux | Ios |
+| Mac-OS |
 **🖥️ Computers :-**
 - Windows
 - Linux
