@@ -66,6 +66,14 @@ custom delay to fitness the behavior.
 - Special Perks (scroll down) 
 > More Special Perks below!
 - ```specially designed for customer satisfaction```
+## Compatible Systems/Devices
+> **Computers**
+- Windows
+- Linux
+- Mac-OS
+> **Mobile/Phone**
+- Android
+- 
 
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
 ![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
