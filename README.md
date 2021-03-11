@@ -68,7 +68,7 @@ custom delay to fitness the behavior.
 - ```specially designed for customer satisfaction```
 
 ## Features
-[Auto-Catcher]
+Auto-Catcher
     - The token should be withing the `""` like:
     - The token should be withing the `""` like:
 ```
