@@ -1,3 +1,8 @@
+/*
+Old Version1 Codes.
+The Newest Version Differs Alot as Compared to Version1.
+*/
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = './config.json';
