@@ -29,7 +29,7 @@
 # comment
 -->
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" align="right" height="120px"><h1>ABOUT</h1>
-This bot was designed to Autocatch Pokétwo spawns using **A.I(Artificial Intelligence)** but It is loaded with versatile and huge functions/Utilities With ease to handle.
+This bot was designed to Autocatch Pokétwo spawns using **Artificial Intelligence(A.I)** but It is loaded with versatile and huge functions/Utilities With ease to handle.
 > **`Current Version:` 3.1.1**
 ### Official website:- will be released soon! am
 ---
