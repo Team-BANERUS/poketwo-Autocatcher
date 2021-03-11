@@ -74,7 +74,7 @@ custom delay to fitness the behavior.
 
 **Mobile/Phone**
 - Android
-- 
+- Ios
 
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
 ![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
