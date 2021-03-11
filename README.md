@@ -72,7 +72,7 @@ custom delay to fitness the behavior.
   + Auto-Catcher [Major] 
       - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
       - Automatically catch them all (With a set delay/Random).
-      - Can deal with high amounts of Pokémon [INTESCE]
+      - Can deal with high amounts of Pokémon [INTENSE]
       - **Undetectable and applies different Algorithms+custom delay to fitness the behavior.[leveler,autocatcher,auto-market]**
       - An auto leveler will level your pokémon.
       - You can specify which pokémon to level up first(list of pokeids).
@@ -81,9 +81,9 @@ custom delay to fitness the behavior.
       - A Channel Logger to Logs Pokemon it has Caught
       - A DM logger to DM you when Legendary/mythical/custom-pokes/shiny are Caught
       - Be notified when a pokémon is spawned.
-      - Auto-Buy Market (Customizable Settings- like IVS/LVLS/NAME/CHECK-INTERVAL/more)
-      - DM you before Buying the Pokemon (in case of offline-can set Wait Command)
-      - Mass-Pokemon Sell Market (Customizable Settings- Price/lvl/args/IV/name/more)
+      - Auto-Buy Market *(Customizable Settings- like IVS/LVLS/NAME/CHECK-INTERVAL/more)*
+      - DM you before Buying the Pokemon *(in case of offline-can set Wait Command)*
+      - Mass-Pokemon Sell Market *(Customizable Settings- Price/lvl/args/IV/name/more)*
       - Mass-Release Pokemon (Customizable Settings - ignore-pkms/lvl/iv/name/time/reminder/more)
       - Whitelist/Blacklist The Server to Catch/Work
       - Generate Mass PokemonIDS (via page- p!p --gen)
