@@ -89,7 +89,7 @@ custom delay to fitness the behavior.
       - Generate Mass PokemonIDS (via page- p!p --gen)
       - Mass Trade Pokemons Easily
       - Build-in Securities to Keep the Auto to Only respond to you/couple of people Allowed (via - IDS in settings)
-      - Lesser Work Utilities such as - SERVER JOINER(via Invite) , `+say <cmnd>` 
+      - Lesser Work Utilities such as - SERVER JOINER(via Invite) , `+say <cmnd>` to follow your command/text (master-slave control)
       - The Bot Works 24HOURS a Day.(24/7)
       - Use the program on multiple accounts.
       - Log error in a debug file (in case of glitch).
