@@ -84,14 +84,6 @@ old ss
 | Windows | Android |
 | Linux | Ios |
 | Mac-OS |
-**🖥️ Computers :-**
-- Windows
-- Linux
-- Mac-OS
-
-**📱 Mobile/Phone**
-- Android
-- Ios
 
 ## Perks
 > **Perks are some extra features given to You!**
