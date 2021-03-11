@@ -35,7 +35,7 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
 ---
 
 
-  :sparkles: | This Bot works with the Current (2021) Poketwo and it catch Pokemons! It has Many useful Features to Make your Day easier too.
+  :sparkles: | This Bot works with the Current (2021) Poketwo and it catch Pokemons! It is Extended to Several Features
 :---: | :---
 
 ## Features
