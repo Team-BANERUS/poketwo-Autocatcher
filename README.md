@@ -84,7 +84,7 @@ old ss
 - Linux
 - Mac-OS
 
-**Mobile/Phone**
+**📱 Mobile/Phone**
 - Android
 - Ios
 
