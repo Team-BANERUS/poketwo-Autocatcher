@@ -56,6 +56,8 @@ This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with E
       - DM you before Buying the Pokemon `(in case of offline-can set Wait Command)`
       - Mass-Pokemon Sell Market `(Customizable Settings- Price/lvl/args/IV/name/more)`
       - Mass-Release Pokemon `(Customizable Settings - ignore-pkms/lvl/iv/name/time/reminder/more)`
+      - Auto-buy Items from Poketwo-shop `(ON/OFF + customizable items name/more)`
+      - Cron Task`(scheduled actions) can be easily packed `(Customizable Settings [example- buy incense/shards/any/more] )` 
       - Whitelist/Blacklist The Server to Catch/Work
       - Generate Mass PokemonIDS of Specific Page`(via page- p!p)`
       - Mass Trade Pokemons Easily
