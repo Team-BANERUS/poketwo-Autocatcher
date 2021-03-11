@@ -39,8 +39,8 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
 :---: | :---
 
 ## Features
-* The Bot has Several Utilies/Features , So I have Divided them Into some Categories for Easy Lisiting:
-  + Auto-Catcher [Major] 
+* The Bot has Several Utilities/Features , So I have listed Some Major Features/Utilities ignoring Complicated/Minor Stuff Below Easy Lisiting :
+  + 50+UTILITIES🔥  
       - Recognize Pokémons `(Alolan - Galarian - Gen 7 included).`
       - Automatically catch them all `(With a set delay/Random).`
       - Can deal with high amounts of Pokémon `[INTENSE]`
