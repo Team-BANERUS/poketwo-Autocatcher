@@ -68,8 +68,8 @@ custom delay to fitness the behavior.
 - ```specially designed for customer satisfaction```
 
 ## Features
-* yo
-             + uo
+* The public version of this selfbot doesn't contain the following to keep the bot usage to minimum and not break Poketwo bot:
+  + Auto-Catcher [Major] 
 ```
 [Catcher]
 [Leveler]
