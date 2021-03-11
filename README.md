@@ -67,7 +67,7 @@ custom delay to fitness the behavior.
 > More Special Perks below!
 - ```specially designed for customer satisfaction```
 ## Compatible Systems/Devices
-**Computers**
+**Computers ⤵️**
 - Windows
 - Linux
 - Mac-OS
