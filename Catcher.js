@@ -1,7 +1,11 @@
 /*
-Old Version1 Codes.
+Old Version 1 Codes.
 The Newest Version Differs Alot as Compared to Version1.
 */
+
+const seeIT = ('THESE ARE V1 CODES OF CATCHER, CURRENT CODES DIFFERS ALOT AND NEW SYSTEMS IN CURRENT VERSIONS!')
+
+
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
