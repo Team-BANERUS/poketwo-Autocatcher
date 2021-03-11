@@ -79,10 +79,10 @@ __There are Plenty more customization and Features Available not included in thi
 old ss
 
 ## Compatible Devices
-| **🖥️ Computers :-** | **📱 Mobile/Phone/Tablets** |
+| **🖥️ Computers :-** | **📱 Mobile/Phone/Tablets :-** |
 | ------------- | ------------- |
 | Windows | Android |
-| Linux | Ios |
+| Linux | IOS |
 | Mac-OS |
 
 ## Perks
