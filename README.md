@@ -39,35 +39,6 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
 :---: | :---
 
 ## Features
- - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
- - Automatically catch them all (With a set delay).
- - Be notified when a pokémon is spawned.
- - automatically/Manually catch pokémon.
- - An auto leveler will level your pokémon.
- - Server joiner Via Invite.
- - You can specify which pokémon to level up first.
- - Use the program on multiple accounts.
- - Spam multiple random messages using semicolons as separator (1;2;3).
- - Can deal with high amounts of Pokémon.
- - Multiple commands to make it easy.
- - Log error in a debug file (in case of glitch).
- - Easy setup (no need to open any text file).
-- the Autocatcher is 24/7( it works 24 hours a day).
-- The bot restart by itself, if it stops.
-- Be notified when a pokémon is detected.
-- Undetectable and applies different Algorithms
-custom delay to fitness the behavior.
-- Regularly maintained.
-- you can make bot say anything u want ( for ex:- +say p!info latest, +say p!trade )
-- mass trade pokemon.
-- Auto Buy/Snipe Poketwo Market.
-- whitelist/blacklist the server where to catch!
-- Generate Any page Pokemon ids.
-- Special Perks (scroll down) 
-> More Special Perks below!
-- ```specially designed for customer satisfaction```
-
-## Features
 * The Bot has Several Utilies/Features , So I have Divided them Into some Categories for Easy Lisiting:
   + Auto-Catcher [Major] 
       - Recognize Pokémons `(Alolan - Galarian - Gen 7 included).`
@@ -96,17 +67,8 @@ custom delay to fitness the behavior.
       - Easy setup `(no need to open any text file)`
       - The Auto-catcher can Restart itself,If it stops
       - Regularly maintained.
-```
-[Catcher]
-[Leveler]
-[Notifications]
-[Spammer]
-[Updater]
-[Market]
-[Guild]
-[Competence/General]
-```  
-__There are Plenty more customization Features not included__
+ 
+__There are Plenty more customization and Features Available not included in this List__
 
 
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
