@@ -108,6 +108,8 @@ old ss
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned (if that's the case I suggest you to switch/pause, but it rarely happens). Be careful about how you use the bot.
 3. I would not recommend use this self-bot in public servers (especially Official PokeTwo Servers)
+4. This Project Will be Continued Till Poketwo is Present and WE Will Never stop Updating this Autocatcher `(Lifetime)`
+ 
 > The Intention to Create this Project was to give you a amplify Over Others and have the most Rare `Pokemons(shiny/legs/myth/ub/events)` and Wealth.(ignore Hoarding/Showing-off 100k+Pokes in Public `by p!profile` creating a Doubt)
 
 # Terms & Conditions
