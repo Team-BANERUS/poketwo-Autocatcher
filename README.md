@@ -70,7 +70,16 @@ custom delay to fitness the behavior.
 ## Features
 * The Bot has Several Utilies/Features , So I have Divided them Into some Categories for Easy Lisiting:
   + Auto-Catcher [Major] 
-      - "token": "Mxy.23e2d3_2er3.sf4t4.....xyz"
+      - Recognize Pokémons (Alolan - Galarian - Gen 7 included).
+      - Automatically catch them all (With a set delay/Random).
+      - Can deal with high amounts of Pokémon [INTESCE]
+      - **Undetectable and applies different Algorithms custom delay to fitness the behavior.[leveler,autocatcher,auto-market]**
+      - An auto leveler will level your pokémon.
+      - You can specify which pokémon to level up first(list of pokeids).
+      - Spam multiple random messages using semicolons as separator (1;2;3).
+      - 
+      - Use the program on multiple accounts.
+      - Regularly maintained.
 ```
 [Catcher]
 [Leveler]
