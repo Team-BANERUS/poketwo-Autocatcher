@@ -84,6 +84,13 @@ old ss
 - Android
 - Ios
 
+## Perks
+> **Perks are some extra features given to You!**
+- Documentations of settings and Other Worth stuff.
+- Request New Features
+- Source code
+- Support and Queries
+
 # How to get it
 1. Join Our discord server /  Start a discussion in the repo.
 2. star this repo and Paypal/Google pay me.
@@ -95,13 +102,6 @@ old ss
 
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll Just need to start the bot.
-
-## Perks
-> **Perks are some extra features given to You!**
-- Documentations of settings and Other Worth stuff.
-- Request New Features
-- Source code
-- Support and Queries
 
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
