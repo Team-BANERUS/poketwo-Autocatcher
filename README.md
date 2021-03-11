@@ -67,6 +67,7 @@ This bot was designed to Autocatch Pokétwo spawns but It is loaded with versati
       - Easy setup `(no need to open any text file)`
       - The Auto-catcher can Restart itself,If it stops
       - Regularly maintained.
+      - Lifetime Support and FREE UPDATES
  
 __There are Plenty more customization and Features Available not included in this List__
 
