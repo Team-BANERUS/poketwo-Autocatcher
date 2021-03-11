@@ -95,11 +95,11 @@ old ss
 
 # How to get it
 1. Join Our discord server /  Start a discussion in the repo.
-2. star this repo and Paypal/Google pay me.
+2. star this repo and Paypal/Google pay me. [Prices/More Details are On DISCORD serer]
 3. If you want me to setup, feel free to send me a DM.
 
 # Discord Server
-1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p)
+1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p) `[Link will be Invalid - to solve :- Remove github.com/xyz/`and you will get discord.gg/link]
 # Setting Up
 
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as self-bots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
