@@ -81,15 +81,15 @@ custom delay to fitness the behavior.
       - A Channel Logger to Logs Pokemon it has Caught
       - A DM logger to DM you when Legendary/mythical/custom-pokes/shiny are Caught
       - Be notified when a pokémon is spawned.
-      - Auto-Buy Market *(Customizable Settings- like IVS/LVLS/NAME/CHECK-INTERVAL/more)*
-      - DM you before Buying the Pokemon *(in case of offline-can set Wait Command)*
-      - Mass-Pokemon Sell Market *(Customizable Settings- Price/lvl/args/IV/name/more)*
-      - Mass-Release Pokemon (Customizable Settings - ignore-pkms/lvl/iv/name/time/reminder/more)
+      - Auto-Buy Market `(Customizable Settings- like IVS/LVLS/NAME/CHECK-INTERVAL/more)`
+      - DM you before Buying the Pokemon `(in case of offline-can set Wait Command)`
+      - Mass-Pokemon Sell Market `(Customizable Settings- Price/lvl/args/IV/name/more)`
+      - Mass-Release Pokemon `(Customizable Settings - ignore-pkms/lvl/iv/name/time/reminder/more)`
       - Whitelist/Blacklist The Server to Catch/Work
       - Generate Mass PokemonIDS (via page- p!p --gen)
       - Mass Trade Pokemons Easily
-      - Build-in Securities to Keep the Auto to Only respond to you/couple of people Allowed (via - IDS in settings)
-      - Lesser Work Utilities such as - SERVER JOINER(via Invite) , `+say <cmnd>` to follow your command/text (master-slave control)
+      - Build-in Securities to Keep the Auto to Only respond to you/couple of people Allowed `(via - IDS in settings)`
+      - Lesser Work Utilities such as - SERVER JOINER(via Invite) , `+say <cmnd>` to follow your command/text `(master-slave control)`
       - The Bot Works 24HOURS a Day.(24/7)
       - Use the program on multiple accounts.
       - Log error in a debug file (in case of glitch).
