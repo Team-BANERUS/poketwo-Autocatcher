@@ -70,7 +70,7 @@ custom delay to fitness the behavior.
 ## Features
 * The Bot has Several Utilies/Features , So I have Divided them Into some Categories for Easy Lisiting:
   + Auto-Catcher [Major] 
-      - `"token": "Mxy.23e2d3_2er3.sf4t4.....xyz"`
+      - "token": "Mxy.23e2d3_2er3.sf4t4.....xyz"
 ```
 [Catcher]
 [Leveler]
