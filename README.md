@@ -76,8 +76,9 @@ custom delay to fitness the behavior.
 [Market]
 [Guild]
 [Competence/General]
-
 __There are Plenty more customization Features not included__
+
+</br>
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
 ![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
 ![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
