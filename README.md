@@ -78,11 +78,11 @@ custom delay to fitness the behavior.
 [Guild]
 [Competence/General]
 ```
-| [Catcher]     | [Leveler]     |[guild]|
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | write |
-| col 2 is      | centered      |   wr |
-| zebra stripes | are neat      |    wri |
+| [Catcher]     | [Leveler]     
+| ------------- :-------------:
+| col 3 is       right-aligned 
+| col 2 is       centered      
+| zebra stripes  are neat     
 __There are Plenty more customization Features not included__
 
 
