@@ -86,7 +86,7 @@ old ss
 | Mac-OS |
 
 ## Perks
-> **Perks are some extra features given to You!**
+> **Perks are some extra Integrity given to You!**
 - Documentations of settings and Other Worth stuff.
 - Request New Features
 - Source code
