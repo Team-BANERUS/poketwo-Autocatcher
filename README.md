@@ -68,6 +68,7 @@ custom delay to fitness the behavior.
 - ```specially designed for customer satisfaction```
 
 ## Features
+```
 [Catcher]
 [Leveler]
 [Notifications]
@@ -76,6 +77,12 @@ custom delay to fitness the behavior.
 [Market]
 [Guild]
 [Competence/General]
+```
+| [Catcher]     | [Leveler]     |[guild]|
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 __There are Plenty more customization Features not included__
 
 
