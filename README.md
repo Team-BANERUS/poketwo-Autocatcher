@@ -71,6 +71,7 @@ custom delay to fitness the behavior.
 - Windows
 - Linux
 - Mac-OS
+</br>
 **Mobile/Phone**
 - Android
 - 
