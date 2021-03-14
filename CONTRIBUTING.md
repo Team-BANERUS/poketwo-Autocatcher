@@ -5,6 +5,9 @@
 - Starring the Repo.
 - Forking the Repo.
 - Referring to Other Person.
+- 
+<h2>I am Really Thankful,If you are Contributing by Any Mehod Mentioned Above.</h2>
+
 </br>
 </br>
 </br>
@@ -12,7 +15,7 @@
 </br>
 </br>
 
-# Request for CODING CONTRIBUTORS
+# Request for CODING CONTRIBUTORS [BELOW]
 
 </br>
 
