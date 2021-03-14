@@ -6,7 +6,7 @@
 - Forking the Repo.
 - Referring to Other Person.
 
-<h2>WE am Really Thankful,If you are Contributing by Any Mehod Mentioned Above.</h2>
+<h2>WE am Really Thankful, 💝 If you are Contributing by Any Mehod Mentioned Above.</h2>
 
 
 
@@ -74,7 +74,7 @@ We are committed to providing a friendly, safe and welcoming environment for
 all, regardless of gender, sexual orientation, disability, ethnicity, religion,
 or similar personal characteristic.
 
-On IRC, please avoid using overtly sexual nicknames or other nicknames that
+On Discord, please avoid using overtly sexual nicknames or other nicknames that
 might detract from a friendly, safe and welcoming environment for all.
 
 Please be kind and courteous. There's no need to be mean or rude.
