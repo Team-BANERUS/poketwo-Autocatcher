@@ -1,7 +1,7 @@
 
 
 # Simplest Way to contribute! (For EVERYONE/ANYONE)
-- Donating For Development [or Purchasing]
+- Donating/Purchasing This Program/Software/
 - Starring the Repo.
 - Forking the Repo.
 - Referring to Other Person.
