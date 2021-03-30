@@ -39,7 +39,7 @@ This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with E
 :---: | :---
 
 ## Features
-* The Bot has Several Utilities/Features , So I have listed Some Major Features/Utilities ignoring Complicated/Minor Stuff Below For Easy Lisiting :
+* __The Bot has Several Utilities/Features , So I have listed Some Major Features/Utilities ignoring Complicated/Minor Stuff Below For Easy Lisiting :__
   + Why we are Best to Choose 🥇 :-
       - Recognize Pokémons `(Alolan - Galarian - Gen 7 included).`
       - Automatically catch them all `(With a set delay/Random).`
