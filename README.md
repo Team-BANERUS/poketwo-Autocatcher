@@ -5,7 +5,7 @@
   Logo: https://i.imgur.com/85PNo2N.png
   Tags: discord-bot, discord, selfbot, poketwo-selfbot, poketwo, python,js, pokemon, poketwo-discord-bot, catch-pokemon, poketwo-hack,
         poketwo discord bot, poketwo discord bot, catch pokemon, poketwo hack, discord-bot, poketwo-bot, autocatcher, premium, auto-trade,
-        donations, poketwo-catcher , poketwo-autocatcher, poketwo-selfbot , Pokecord , pokecord , pokerealm , pokemon , bot , Market , Mass Trade , 
+        donations, poketwo-catcher , accurate ,poketwo-autocatcher, poketwo-selfbot , Pokecord , pokecord , pokerealm , pokemon , bot , Market , Mass Trade , 
         Artificial intelligence , Auction , Official , server , Hope , Nexus , Working , Banerus , 100% , Latest , version 
 -->
 
@@ -15,7 +15,7 @@
 <meta name="author" content="Team-banerus"/>
 <meta name="url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
 <meta name="og:title" content="Poketwo Autocatcher"/>
-<meta name="google-site-verification" content="xxxxxxxxxxxxxxxxxxxxx" />
+<meta name="google-site-verification" content="premium best" />
 <meta name="og:url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
 <meta name="og:image" content="https://i.imgur.com/85PNo2N.png" />
 <meta name="og:description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
@@ -39,7 +39,7 @@ This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with E
 :---: | :---
 
 ## Features
-* <ins> The Bot has Several Utilities/Features , So I have listed Some Major Features/Utilities ignoring Complicated/Minor Stuff Below For Easy Lisiting : </ins>
+* <ins>The Bot has Several Utilities/Features , So I have listed Some Major Features/Utilities ignoring Complicated/Minor Stuff Below For Easy Lisiting :</ins>
   + Why we are Best to Choose 🥇 :-
       - Recognize Pokémons `(Alolan - Galarian - Gen 7 included).`
       - Automatically catch them all `(With a set delay/Random).`
