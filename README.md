@@ -107,7 +107,7 @@ soon.
 3. If you want me to setup, feel free to send me a DM.
 
 # Setting Up
-1. There is a Documentation Given When you Purchase this Program to Adjust The Settings With Their Explanations.
+1. There is a Documentation/Guide Given When you Purchase this Program to Adjust The Settings With Their Explanations.
 
 # Disclaimer
 1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
