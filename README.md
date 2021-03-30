@@ -29,13 +29,13 @@
 # comment
 -->
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" align="right" height="120px"><h1>ABOUT</h1>
-This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with Ease of handling and it Works on mostly Every Device.**
+This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with Ease of handling & tons of Utilities and it Works on mostly Every Device.**
 > **`Current Version:` 3.1.1**
 ### Official website:- will be released soon! am
 ---
 
 
-  :sparkles: | This Bot works with the Current Poketwo(2021) and It Catch Pokemons! It is Extended to Several Features and Utility To make it Special and Unique with Ease of Handling.
+  :sparkles: | This Bot works with the Current Poketwo(2021) and It Catch Pokemons!`poketwo autocatcher` is just for a perfect title it is beyong that with Auto-Leveler,Auto-market,Auto-release, Auto-setup and Plenty of other Features.
 :---: | :---
 
 ## Features
