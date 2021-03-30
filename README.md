@@ -94,12 +94,12 @@ old ss
 - Request New Features
 - Source code `[Files of the Autocatcher/system/Program]`
 - Support and Queries
-- 
+
 # Discord Server
 1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p) `[Link will be Invalid - to solve :- Remove github.com/xyz/`and you will get `discord.gg/link` ]
 
 # Tutorial/Trailer Video
-
+soon.
 
 # How to get it
 1. Join Our discord server /  Start a discussion in the repo.
