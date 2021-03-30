@@ -35,7 +35,7 @@ This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with E
 ---
 
 
-  :sparkles: | This Bot works with the Current Poketwo(2021) and It Catch Pokemons!`poketwo autocatcher` is just for a perfect title it is beyong that with Auto-Leveler,Auto-market,Auto-release, Auto-setup and Plenty of other Features.
+  :sparkles: | This Bot works with the Current Poketwo(2021)!  `poketwo autocatcher` is just for a perfect title it is beyong that with Auto-Leveler,Auto-market,Auto-release, Auto-setup and Plenty of other Features.
 :---: | :---
 
 ## Features
