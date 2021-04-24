@@ -24,3 +24,4 @@ Shiny = True
 CustomPkmn = False  
 CustomPoke = Pikachu, larvitar, gible, magby, goomy, Goodra
 Huntshiny = true // no need to write list, the bot will automatically fetch p!shinyhunt and feed the pokemon and dm you if caught (if True)
+
