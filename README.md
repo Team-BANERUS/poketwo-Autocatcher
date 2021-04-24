@@ -44,7 +44,7 @@ This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with E
       - Recognize Pokémons `(Alolan - Galarian - Gen 7 included).`
       - Automatically catch them all `(With a set delay/Random).`
       - Can deal with high amounts of Pokémon `[INTENSE]`
-      - **Undetectable and applies different Algorithms+custom delay to fitness the behavior.`[leveler,autocatcher,auto-market]`**
+      - **Undetectable and applies different Algorithms + custom delays to fitness the behavior.`[leveler,autocatcher,auto-market]`**
       - An auto leveler will level your pokémon.
       - You can specify which pokémon to level up first`(list of pokeids).`
       - Spam multiple random messages using semicolons as `separator (1;2;3).`
