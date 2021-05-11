@@ -20,5 +20,5 @@
 
 
 
-* **♻️ Also Provide Other information**:
+* **♻️ Also Provide Other information**.
 
