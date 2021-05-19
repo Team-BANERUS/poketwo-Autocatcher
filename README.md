@@ -73,13 +73,14 @@ This is the **The Most Light-Weighted Program/system To Autocatch Poketwo with E
  
 __There are Plenty more customization and Features Available not included in this List__
 
-
+<!--
 ![Works](https://media1.giphy.com/media/9cepV83q9ZVW8vAJ2w/giphy.gif)
 ![Works](https://media0.giphy.com/media/gIG0Aw7vFsU8fKKywD/giphy.gif)
 ![Works](https://cdn.discordapp.com/attachments/50f4587263242534913/780038260457209856/20201122_171216_edited.jpg)
 ![Works](https://cdn.discordapp.com/attachments/504587263242534913/780038815850823701/20201122_171514_edited.jpg)
 ![Works](https://media4.giphy.com/media/fMH1ennRztVJkjtvRr/giphy.gif)
 old ss
+-->
 
 ## Compatible Devices
 | **🖥️ Computers :-** | **📱 Mobile/Phone/Tablets :-** |
