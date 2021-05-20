@@ -17,6 +17,9 @@ const ai = './ai.js')
 console.log("ready to catch pokes")
 console.log(".");
 
+client.commands = new Discord.Collection();
+client.aliases = new Discord.Collection();
+
 client.on('message', message => {
   switch(message.author.bot) {
     case false:
