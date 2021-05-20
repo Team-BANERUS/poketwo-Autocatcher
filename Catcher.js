@@ -20,6 +20,34 @@ console.log(".");
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
 
+fs.readdir("./EK11/prelex", (err, files) => {
+	// do stuff
+});
+
+  client.on("message", async message => {
+    //edit some stuff of files
+    let prefix = c_prefix;
+    if (!message.content.startsWith(prefix)) return;
+    if(!c_ownerid.includes(message.author.id)) return;
+    let args = message.content.slice(prefix.length).trim().split(/ +/g);
+    let cmd;
+    cmd = args.shift().toLowerCase();
+    let command;
+    let commandfile = client.commands.get(cmd.slice(prefix.length));
+    if (commandfile) commandfile.run(client, message, args);
+    if (client.commands.has(cmd)) {
+      command = client.commands.get(cmd);
+    } else if (client.aliases.has(cmd)) {
+      command = client.commands.get(client.aliases.get(cmd));
+    }
+    try {
+      command.run(client, message, args);
+    } catch (e) {
+      return;
+    }
+  });
+});
+
 client.on('message', message => {
   switch(message.author.bot) {
     case false:
@@ -55,5 +83,8 @@ client.on('message', message => {
       break;
   }
 	
+});
+client.on("disconnect", function(event){
+    console.log(`The Program has closed and will no longer attempt to reconnect`);
 });
 client.login('Your-token');
