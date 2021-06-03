@@ -6,7 +6,7 @@
   Tags: discord-bot, discord, selfbot, poketwo-selfbot, poketwo, python,js, pokemon, poketwo-discord-bot, catch-pokemon, poketwo-hack,
         poketwo discord bot, poketwo discord bot, catch pokemon, poketwo hack, discord-bot, poketwo-bot, autocatcher, premium, auto-trade,
         donations, poketwo-catcher , accurate ,poketwo-autocatcher, poketwo-selfbot , Pokecord , pokecord , pokerealm , pokemon , bot , Market , Mass Trade , 
-        Artificial intelligence , Auction , Official , server , Hope , Nexus , Working , Banerus , 100% , Latest , version 
+        Artificial intelligence , Auction , Official , server , Hope , Nexus , Working , Banerus , 100% , Latest , version , Mewbot , Reddit
 -->
 
 <meta name="description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
