@@ -2,4 +2,4 @@
 
 hello.
 
-<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" height="15px"><h3>Pokétwo ∆ Autocatcher</h3>
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" height="35px"><h3>Pokétwo ∆ Autocatcher</h3>
