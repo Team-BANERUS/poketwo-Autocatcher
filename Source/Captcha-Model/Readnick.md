@@ -5,4 +5,8 @@ Based on Pytorch
 Yea,We are using Python for AI to solve Captchas.
 
 --------
-o
+#### Progress
+
+Current Accuracy:- 78% 
+
+## This is for Google Re-captcha, Not Pokemon Recognization Stats
