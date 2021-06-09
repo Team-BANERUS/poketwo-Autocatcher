@@ -9,4 +9,4 @@ Yea,We are using Python for AI to solve Captchas.
 
 Current Accuracy:- 78% 
 
-## This is for Google Re-captcha, Not Pokemon Recognization Stats
+## These stats are for Google Re-captcha, Not Pokemon Recognization Stats
