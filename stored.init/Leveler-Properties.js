@@ -9,8 +9,8 @@ export function owAnyx<T>(
       const messages = []
       for (const predicator of predicators) {
         const message = reportValidation(input, predicator)
-        if (message == null) return true
-        messages.push(message)
+        if (message.content == null) return true
+        messages.push(message.content)
       }
       context[messagesSymbol] = messages
       return false
@@ -19,8 +19,8 @@ export function owAnyx<T>(
       const messages: string[] = context[messagesSymbol]
       return [
         `Expected value to match any of following conditions`,
-        ...messages.map(message => `- ${message.replace(/\n/g, '\n  ')}`)
-      ].join('\n')
+        ...messages.map(message => `- ${message.content.replace(/\n/g, '\n  ')}`)
+      ].join('\n') // Creates New line , Join
     }
   }
   return {
