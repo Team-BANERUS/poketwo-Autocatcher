@@ -41,7 +41,7 @@ IMG/ctching
 
 - Interactive setup process. (no coding knowledge required!)
 - Commands to change configuration afterwards.
-- All Options are Channel-ID/Owner-ID Locked. (only you can mention where to work and ignore)
+- Non Explicit (The bot will Only work wherever you order)
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" width="20px">
 <h3>Autocatch </h3>
