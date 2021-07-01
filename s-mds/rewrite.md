@@ -54,4 +54,4 @@ IMG/ctching
 
 <h3>Logger & Notifications </h3>
   <h5>• Notification when a pokémon spawns | Alerts on Rare spawns (legendary/shiny/mythical)</h5>
-  <h5>- Logs pokemons caught with Type(common/rare),Evolution, Level ,Name, more. </h5>
+  <h5>• Logs pokemons caught providing extra info - Types(common/rare),Evolution, Level ,Name, more. </h5>
