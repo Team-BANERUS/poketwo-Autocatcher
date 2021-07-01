@@ -35,4 +35,4 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 > **`Current Version:` 5.3.6** (img-png)
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
-<h1>Features</h1?
+<h1 align="center">Features</h1?
