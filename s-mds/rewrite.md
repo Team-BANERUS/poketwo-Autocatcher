@@ -39,7 +39,7 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 
 - Interactive setup process. (no coding knowledge required!)
 - Commands to change configuration afterwards.
-- Fine-grained configuration & Mode options.
+- All Options are Channel-ID/Owner-ID Locked. (only you can mention where to work and ignore)
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" width="20px">
 <h3>Autocatch </h3>
