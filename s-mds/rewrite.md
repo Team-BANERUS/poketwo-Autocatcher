@@ -42,5 +42,5 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 - Fine-grained configuration & Mode options.
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" width="20px">
-**Autocatch**
-<h1
+<h3>Autocatch</h3>
+Quest completor | Shiny hunter | Dex completor  & Awards | Sniper(less than 1sec) | Custom delay | Different Modes per Needs
