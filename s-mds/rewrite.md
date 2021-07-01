@@ -52,3 +52,8 @@ IMG/ctching
 <h3>Auto-Leveler & Spawner </h3>
   <h5>Levelup Pokemons based on PokeID Queue | Choose Evolution/custom level .</h5>
   <h5>Fast spawner | Unique & Special Spammer | Multi-modes supported</h5>
+</br>
+
+<h3>Logger & Notifications </h3>
+  <h5>O</h5>
+  <h5>U</h5>
