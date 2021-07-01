@@ -42,10 +42,8 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 - Fine-grained configuration & Mode options.
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" width="20px">
-<h3>Autocatch</h3>
-   Quest completor | Shiny hunter | Dex completor  & Awards ,
-   </br>
-   Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon
-</br>
+<h3>Autocatch </h3>
+   <h5>   Quest completor | Shiny hunter | Dex completor  & Awards | Custom filters, </h5> 
+   <h5>   Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon </h5>
 </br>
 Next
