@@ -37,5 +37,9 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
 <h1 align="center">Features ✨</h1>
 
+- Interactive setup process. (no coding knowledge required!)
+- Commands to change configuration afterwards.
+- Fine-grained configuration & Mode options.
+
 - Autocatch
   - 1
