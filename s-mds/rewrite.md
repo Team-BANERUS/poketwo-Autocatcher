@@ -45,13 +45,13 @@ IMG/ctching
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" width="20px">
 <h3>Autocatch </h3>
-   <h5>Quest completor | Shiny hunter | Dex completor  & Awards | Custom filters, </h5> 
-   <h5>Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon </h5>
+   <h5>• Quest completor | Shiny hunter | Dex completor  & Awards | Custom filters, </h5> 
+   <h5>• Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon </h5>
 
 <h3>Auto-Leveler & Spawner </h3>
-  <h5>Levelup Pokemons based on PokeID Queue | Choose Evolution/custom level .</h5>
-  <h5>Fast spawner | Unique & Special Spammer | Multi-modes supported</h5>
+  <h5>• Levelup Pokemons based on PokeID Queue | Choose Evolution/custom level .</h5>
+  <h5>• Fast spawner | Unique & Special Spammer | Multi-modes supported</h5>
 
 <h3>Logger & Notifications </h3>
-  <h5>O</h5>
-  <h5>U</h5>
+  <h5>• Notification when a pokémon spawns | Alerts on Rare spawns (legendary/shiny/mythical)</h5>
+  <h5>- Logs pokemons caught with Type(common/rare),Evolution, Level ,Name, more. </h5>
