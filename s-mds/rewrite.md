@@ -58,4 +58,8 @@ IMG/ctching
   <h5>• Notification when a pokémon spawns | Alerts on Rare spawns (legendary/shiny/mythical)</h5>
   <h5>• Logs pokemons caught providing extra info - Types(common/rare),Evolution, Level ,Name, more. </h5>
  
-// will write - market
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-flow.png" align="left" width="40px">
+<h3>Market Throne </h3>
+  <h5>• Maket Sniper - Fastest Sniper of the poketwo market with customizations | Stocks - Track and Plot price fluctuations of a pokemon </h5>
+  <h5>• Market Flipper - Quickly flip the prices of a pokemon in the market | Advanced & Very friendly to Use with customizations </h5>
+ <h5>• Market swiper - Swipes your trash pokemon list into market with price-range </h5>
