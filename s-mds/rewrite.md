@@ -68,3 +68,4 @@ IMG/ctching
 <h3>Honorable presence </h3>
   <h5>• LightWeight program | Professionally designed & coded with Premium delight Looks </h5>
   <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about ruling Poketwo.</h5>
+  <h5>• Gen 8 included & captcha alerts.</h5>
