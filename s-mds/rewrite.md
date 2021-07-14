@@ -43,7 +43,7 @@ IMG/ctching
 - Commands to change configuration afterwards.
 - Non Explicit (The bot will Only work wherever you order)
 
-<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/592582573763330048.gif" align="left" width="20px">
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-boost.png" align="left" width="40px">
 <h3>Autocatch </h3>
    <h5>• Quest completor | Shiny hunter | Dex completor  & Awards | Custom filters, </h5> 
    <h5>• Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon </h5>
