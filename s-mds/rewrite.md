@@ -60,6 +60,11 @@ IMG/ctching
  
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-ninja.png" align="left" width="40px">
 <h3>Market Throne </h3>
-  <h5>• Maket Sniper - Fastest Sniper of the poketwo market with customizations | Stocks - Track and Plot price fluctuations of a pokemon </h5>
+  <h5>• Maket Sniper - Fastest Sniper of the poketwo market with customizations | Stocks SPY - price fluctuations prediction & control </h5>
   <h5>• Market Flipper - Quickly flip the prices of a pokemon in the market | Advanced & Very friendly to Use with customizations </h5>
  <h5>• Market swiper - Swipes your trash pokemon list into market with price-range </h5>
+
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-hrt.png" align="left" width="40px">
+<h3>Honorable presence </h3>
+  <h5>• LightWeight program | Professionally designed & coded with Premium delight Looks </h5>
+  <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about ruling Poketwo.</h5>
