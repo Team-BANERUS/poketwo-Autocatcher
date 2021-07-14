@@ -77,5 +77,7 @@ IMG/ctching
 
 // pricing tab
 
+// Perks (documentation,etc)
+
 ## Disclaimer
-// write.
+// write/tos
