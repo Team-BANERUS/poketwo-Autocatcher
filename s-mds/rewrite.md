@@ -24,7 +24,7 @@
 
 <!-- Header Top img  -->
 
-<img src="https://i.imgur.com/85PNo2N.png" lt="poketwo autocatcher logo" align="left" height="160px"><h1>Pokétwo ∆ Autocatcher</h1>
+<img src="https://i.imgur.com/85PNo2N.png" lt="poketwo autocatcher logo" align="left" height="160px"><h1>Pokétwo ∆ Automation</h1>
 
 The most legit & advanced Poketwo autocatcher and one click setup with ease of handling with: Market sniper,Leveler,Mass-trade and plenty more!
 </br>
