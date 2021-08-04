@@ -100,7 +100,7 @@ old ss
 - Support and Queries
 
 # Discord Server
-1. link:- [discord server](https:https://discord.gg/n3bFqM3U4p) `[Link will be Invalid - to solve :- Remove github.com/xyz/`and you will get `discord.gg/link` ]
+1. link:- [discord server](https: https://discord.gg/VKGamvbWQ2) `[Link will be Invalid - to solve :- Remove github.com/xyz/`and you will get `discord.gg/link` ]
 
 # Tutorial/Trailer Video
 soon.
