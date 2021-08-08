@@ -77,7 +77,7 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 
   <h2> Check out the promo video: </h2>
   <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
-    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/drop-linku.jpg" width="380" />
+    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/Poketwo-thumb.jpg" width="380" />
   </a>
 
 // pricing tab
