@@ -122,4 +122,11 @@ We sometimes even do Exchanges of items if no money.
 </br>                                                                                                                                
 • To grab your Free trial, Join our Discord server and for Live Preview, you may watch our bot present in Chat
 
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/symbol%26sign/q-1.gif" align="left" width="50px">
+<h3>What devices are supported? </h3>
+• While designing our programs, we think for all Users.
+</br>
+• Glad to announce: It works on mobile & Desktop
+<br>
+• let it be any device, You won't see any issue because we debug/test multiple times.
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
