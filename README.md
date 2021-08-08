@@ -96,7 +96,7 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 5. You will get our support from our side.
 
 ## Disclaimer                                                                                                                       
-1. This Project Will be Continued Till Poketwo is Present and We will Never stop Updating this Autocatcher `(Lifetime)`
+1. This Project Will be Continued Till Poketwo is Present and We will Never stop Updating this Autocatcher & Automation`(Lifetime)`
 2. We recommend to use as Bot, Selfbots are against Discord TOS but they rarely detects.
 3. If you would like to use in Public server,Use the delay system in our program to catch at humanic speed.
 
