@@ -88,16 +88,22 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
  - Lightweight & most Advanced with ease of usage
  - Runs on all devices: Phone & Desktop
 
-## Disclaimer
-// write/tos
-
 ## Terms & Conditions
 1. You will receive the bot with the deployment instructions after the payment has been acknowledged.
 2. Since Poketwo keeps updating , Stay patient until I patch the error for it.
-3. All donations are non-refundable.
-4. I (and others contributors) for this repo not responsible for any legal suits.
+3. All donations & orders are non-refundable.
+4. Team_Banerus is not not responsible for any legal suits.
+5. You will get our support from our side.
+
+## Disclaimer                                                                                                                       
+1. This Project Will be Continued Till Poketwo is Present and We will Never stop Updating this Autocatcher `(Lifetime)`
+2. We recommend to use as Bot, Selfbots are against Discord TOS but they rarely detects.
+3. If you would like to use in Public server,Use the delay system in our program to catch at humanic speed.
 
 # Testimonials
 a small png formatted gif.
+
+## F.A.Qs
+hi
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
