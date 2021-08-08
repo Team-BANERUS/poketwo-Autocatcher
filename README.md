@@ -73,7 +73,8 @@ IMG/ctching
 
 <h2> Contact Information: </h2>
 <img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
-Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
+Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end) </br>
+<in>Make sure to DM me only and avoid exposure about buying it in the Discord Server</in>
 
   <h2> Check out the promo video: </h2>
   <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
