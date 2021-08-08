@@ -90,3 +90,6 @@ IMG/ctching
 2. Since Poketwo keeps updating , Stay patient until I patch the error for it.
 3. All donations are non-refundable.
 4. I (and others contributors) for this repo not responsible for any legal suits.
+
+# Testimonials
+a small png formatted gif.
