@@ -71,12 +71,8 @@ IMG/ctching
 
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-banerus-line.gif" width="9000px">
 
-
 <h2> Contact Information: </h2>
-For Pricing & Information, contact us :
-
-<img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
-</br>
+<img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
 Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 
   <h2> Check out the promo video: </h2>
