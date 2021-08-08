@@ -96,4 +96,4 @@ Discord Server: discord.gg/willwrite
 # Testimonials
 a small png formatted gif.
 
-<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/poketwo-autocatcher-down.png">
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
