@@ -109,4 +109,17 @@ a small png formatted gif.
 • Paypal, Transwise, UPI, GooglePay and Crypto
 </br>
 We sometimes even do Exchanges of items if no money.
+
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/symbol%26sign/q-4.gif" align="left" width="40px">
+<h3>How does this Program works? </h3>
+• We use AI (Artificial Intelligence) to detect pokemon & spawns with a high accuracy.
+</br>
+• Program is written in Node.js
+
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/symbol%26sign/q-3.png" align="left" width="50px">
+<h3>Is there a free Trial & Live Preview? </h3>
+• Everytime when we are asked this question, we are proud to answer YES!
+</br>                                                                                                                                
+• To grab your Free trial, Join our Discord server and for Live Preview, you may watch our bot present in Chat
+
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
