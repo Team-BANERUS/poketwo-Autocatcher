@@ -72,7 +72,10 @@ IMG/ctching
 
 ## X.X
 // video link
-
+  <h2> Check out the promo video: </h2>
+  <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
+    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/drop-linku.jpg" width="480" />
+  </a>
 // discord gif friend req
 
 // pricing tab
