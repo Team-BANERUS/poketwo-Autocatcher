@@ -106,7 +106,7 @@ a small png formatted gif.
 # F.A.Qs
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/symbol%26sign/q-3.png" align="left" width="40px">
 <h3>What are the Payment Methods? </h3>
-• Paypal, Transwise, UPI, GooglePay and Crypto
+<strong>• Paypal, Transwise, UPI, GooglePay and Crypto</strong>
 </br>
 We sometimes even do Exchanges of items if no money.
 
@@ -126,5 +126,5 @@ We sometimes even do Exchanges of items if no money.
 </br>
 • Glad to announce: It works on mobile & Desktop
 <br>
-• let it be any device, You won't see any issue because we debug/test multiple times.
+• <strong>let it be any device, You won't see any issue because we debug/test multiple times.</strong>
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
