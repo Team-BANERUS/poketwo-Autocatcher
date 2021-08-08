@@ -104,7 +104,9 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 a small png formatted gif.
 
 # F.A.Qs
-<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hug-op.gif" align="left" width="30px">
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/symbol%26sign/q-2.png" align="left" width="30px">
 <h3>What are the Payment Methods? </h3>
-
+• Paypal, Transwise, UPI, GooglePay and Crypto
+</br>
+We sometimes even do Exchanges of items if no money.
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
