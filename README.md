@@ -69,7 +69,7 @@ IMG/ctching
   <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about ruling Poketwo.</h5>
   <h5>• Gen 8 included & automatic captcha solving.</h5>
 
-<img src = "">
+<img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-banerus-line.gif" width="9000px">
 
 <h2> Contact Information: </h2>
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
