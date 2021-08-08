@@ -70,10 +70,10 @@ IMG/ctching
   <h5>• LightWeight program | Professionally designed & coded with Premium delight Looks </h5>
   <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about ruling Poketwo.</h5>
   <h5>• Gen 8 included & automatic captcha solving.</h5>
-
+<img src = "">
   <h2> Check out the promo video: </h2>
   <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
-    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/drop-linku.jpg" width="480" />
+    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/drop-linku.jpg" width="380" />
   </a>
 // discord gif friend req
 
