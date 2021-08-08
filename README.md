@@ -72,7 +72,8 @@ IMG/ctching
 <img src = "">
 
 <h2> Contact Information: </h2>
-Interested to purchase? Find us:
+  :sparkles: | 000011
+:---: | :---
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
 Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 
@@ -83,10 +84,10 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
                                                                                                                           
 
 ## Perks
- - Professionally Designed & Top-Notch Product & Program
+ - Professionally Designed & Top-Notch Product/Program
  - Best Support & Guides & Queries
  - Request New Features
- - Lightweight
+ - Lightweight & most Advanced with ease of usage
  - Runs on all devices: Phone & Desktop
 
 ## Disclaimer
