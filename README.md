@@ -104,6 +104,7 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 a small png formatted gif.
 
 # F.A.Qs
-
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hug-op.gif" align="left" width="30px">
+<h3>What are the Payment Methods? </h3>
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
