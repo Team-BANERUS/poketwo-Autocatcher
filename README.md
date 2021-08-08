@@ -75,7 +75,10 @@ IMG/ctching
   <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
     <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/drop-linku.jpg" width="380" />
   </a>
-// discord gif friend req
+
+<h2> Contact Information: </h2>
+<img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
+Discord Server: discord.gg/willwrite
 
 // pricing tab
 
