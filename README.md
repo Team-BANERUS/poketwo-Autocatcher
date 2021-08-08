@@ -104,6 +104,6 @@ Discord Server: https://discord.gg/rX85jrkaxP01 (remove 01 from the end)
 a small png formatted gif.
 
 # F.A.Qs
-hi
+
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/thank-u-txt.png">
