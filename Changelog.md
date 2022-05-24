@@ -1,11 +1,9 @@
 # Changelog of the Current Versions
-All notable changes to this project will be documented in this file.
+All new Releases to this project will be documented in this file.
 
-comparision of versions to versions
--write
+Latest Version : 6.1.9
 
-
-## Version 6.19
+## Version 6.1.9
 
 ### Added
 what was added new.
