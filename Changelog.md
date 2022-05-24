@@ -10,7 +10,7 @@ what was added new.
 
 ### Changed
 what was changed in that version compared to older.
-
+- Major Code Refractions
 ### Fixed
 what was fixed if any.
 
