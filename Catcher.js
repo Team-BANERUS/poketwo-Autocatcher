@@ -5,7 +5,7 @@
  *
  * Professional, Clean, Lightweight Poketwo Autocatcher coded with excellence!
  *
- * NOTE: This file is not allocated
+ * NOTE: This file is not allocated & publically distributed
  */
 
 
