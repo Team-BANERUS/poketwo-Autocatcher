@@ -1,5 +1,13 @@
-## want to request new features?
-You may Join our Discord Server and Discuss about it.
-As, we actively Work On this Project, It will be Included in the Next Version IF it is Required or necessary 
+## Requesting New Features
+Answer these questions:
+- **What is the new Feature you are requesting?** <br>
+- **Your personal thoughts & ideas upon why it should be added?** <br>
+<br>
 
-Thanks for Checking this Out!
+- We appreciate every Queries we get and most likely it will be added in the next version!
+
+<br>
+
+*You may DM me on Discord since we actively respond to queries*
+<br>
+**Thank you for Checking Poketwo Autocatcher by Banerus!**
