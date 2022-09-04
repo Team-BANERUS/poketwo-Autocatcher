@@ -101,8 +101,7 @@ client.on("messageCreate", async message => {
     if (command) command.run(client, message, args);
 	
 	if(message.author.id == "716390085896962058" && message.author.name == "Poketwo"){
-		let pokename = poketwo_builder(pokedetector());
-		message.channel.send(message.author.mention + "catch" + pokename)
+		poketwo_builder(pokedetector("mention", "instant"));
 	}
   });
 
