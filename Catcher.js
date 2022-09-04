@@ -8,9 +8,9 @@
 
 
 const {
-	p_builder,
+	poketwo_builder,
 	//...//
-} = require("source/builder.js");
+} = require("source/poketwoBuilder.js");
 const {
 	pokedetector,
 	trader,
