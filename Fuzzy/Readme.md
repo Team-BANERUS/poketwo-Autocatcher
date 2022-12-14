@@ -36,8 +36,8 @@ This is an open-source, so you can read the code, making it safe to use. Trusted
 * A: I've told you enough to get you started running the bot. ask your friends for help if you still have issues.      
 </br>
 
-* Q: What bots does the Fuzzy Catcher work with? </br>
-* A: The Fuzzy Catcher currently works with Pokemon, Poketwo, and Mewbot.
+* Q: What bots does the Fuzzy bot work with? </br>
+* A: The Fuzzy bot currently works with Pokemon, Poketwo, and Mewbot.
 
 `=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=--=-=-=-=-=-=`
 
