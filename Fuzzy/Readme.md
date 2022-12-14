@@ -1,4 +1,4 @@
-# Fuzzy Bot (Free)
+# Fuzzy Bot
 I n f o r m a t i o n: </br>
 `@Developer: Team_Banerus`
 </br>
@@ -8,6 +8,8 @@ I n f o r m a t i o n: </br>
 
 **A Discord Bot for everybody's use without any cost since we know not everybody can afford one.** </br>
 This is an open-source, so you can read the code, making it safe to use. Trusted too since developed by banerus ^_^
+</br>
+__(Contact me on Discord, if you need any help with the bot 😉)__
 
 ## - Features
 
