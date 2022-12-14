@@ -6,7 +6,7 @@ I n f o r m a t i o n: </br>
 </br>
 `@Supported: poketwo/pokemon/mewbot/Many more`
 
-**A Autocatcher for everybody's use without any cost since we know not everybody can afford one.** </br>
+**A Discord Bot for everybody's use without any cost since we know not everybody can afford one.** </br>
 This is an open-source, so you can read the code, making it safe to use. Trusted too since developed by banerus ^_^
 
 ## - Features
