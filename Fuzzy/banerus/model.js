@@ -13,4 +13,4 @@ We are pleased to help you and provide you with new elegant programs.
 Thank you for choosing us ^_^.
 */
 
-Contact me on Discord if you need this Discord Bot, however it is already on the server.
+Contact me on Discord if you need this File, however it is already on the server.
