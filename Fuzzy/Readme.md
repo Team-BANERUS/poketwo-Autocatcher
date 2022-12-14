@@ -11,19 +11,17 @@ This is an open-source, so you can read the code, making it safe to use. Trusted
 
 ## - Features
 
-- **Automatically catch/predict them all (With a set delay).**
-- **Capable of auto leveling your pokémon.**
-- **Pokemon spawner.**
+- **Automatically Predict them all (With a set delay).**
+- **Capable of informing about leveling your pokémon.**
 - **Everything that it Caught is shown in Terminal.**
 - **Catches are logged in a decorative manner**
-- **Say command to make it easy to control.** (ex:- $say p!pokemon)
+- **Say command to make bot easy to control.** (ex:- $say p!pokemon)
 - **You can Specify Which Channel to work and not!**
 - **Use the Program On Multiple Guilds without tention!**
 - **Hint & AI Based Catcher (Duo Mode)**
 - **Easy Setup (Just enter Settings and click run - nothing else!**
 - **Designed and developed to work on both PC and mobile devices!**
 - **This is an open-source project, so you can read the code and it is safe to use.**
-
   
 `=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=--=-=-=-=-=-=`
 
