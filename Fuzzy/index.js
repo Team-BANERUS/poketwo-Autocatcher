@@ -2,7 +2,7 @@
 @Developer: Team_Banerus
 Name: Fuzzy Bot
 Version: V7.0.1
-Description: bot to help users with catching pokemons
+Description: A Discord bot to help users with catching pokemons
 @Supported: poketwo/pokemon/mewbot/deriver
 */
 
@@ -43,7 +43,7 @@ const {
 	Client,
 	WebhookClient,
 	MessageEmbed
-} = require('discord.js-selfbot-v13');
+} = require('discord.js');
 
 // Variables
 const currentVersion = "v7.0.1";
