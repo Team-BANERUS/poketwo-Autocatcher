@@ -1,4 +1,4 @@
-# Fuzzy catcher (Free)
+# Fuzzy Bot (Free)
 I n f o r m a t i o n: </br>
 `@Developer: Team_Banerus`
 </br>
