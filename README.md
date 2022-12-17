@@ -31,7 +31,7 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" alt="poketwo logo" align="right" height="120px"><h1>ABOUT</h1>
 **The Most Light-Weighted Program/system To Autocatch on any device with Ease of handling & tons of Features for Poketwo.**
-> **`Current Version:` 5.3.6** (V6 coming - spoilers out)
+> **`Current Version:` 7.0.9** (Updated on 2023)
 
 IMG/catching
 
