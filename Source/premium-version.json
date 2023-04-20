@@ -1,3 +1,7 @@
 {
-	"version":"v6.1.9"
+  "version": "v8.7.0",
+  "changes": [
+    "Implemented updates to the software packages for improved functionality and security.",
+    "Enhanced the graphical user interface through minor updates and changes to improve user experience."
+  ]
 }
