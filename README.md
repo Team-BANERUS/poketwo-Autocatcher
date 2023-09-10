@@ -72,7 +72,7 @@ IMG/catching
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-banerus-line.gif" width="9000px">
 
 <h2> Contact Information: </h2>
-<img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hope_nexus-pfp.jpg" width = "300px height="200px">
+<img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hopenexus-pfpNew.png.png" width = "300px height="200px">
 Discord Server: https://discord.gg/skwEWhWGWw01 (remove 01 from the end) </br>
 <ins>Make sure to DM me only and avoid exposure about buying it in the Discord Server</ins>
 
