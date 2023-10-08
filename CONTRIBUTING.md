@@ -6,7 +6,7 @@
 - Forking the Repo.
 - Referring to Other Person.
 
-<h2>WE am Really Thankful, 💝 If you are Contributing by Any Mehod Mentioned Above.</h2>
+<h2>We are Really Thankful, 💝 If you are Contributing by Any Method Mentioned Above.</h2>
 
 
 
