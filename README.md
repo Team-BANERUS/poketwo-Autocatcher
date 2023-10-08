@@ -12,7 +12,7 @@
 
 <meta name="description" content="This AutoCatcher was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features to make your rich in Poketwo like Mass-trading, Cross-trade, Mass releasing, ID search, Market sniper , etc. Apart from autocatching, the bot extends its features to easy customization with easy setup."/>
 
-<meta name="keywords" content="Poketwo, Poketwo AutoCatcher, Poketwo Hack, poketwo selfbot, Poketwo vote, poketwo discord bot, poketwo bot, premium, poketwo commands, Safe autocatcher, catch pokemon, poketwo-hack, poketwo-autocatcher, youtube, poketwo free, poketwo paid, mass trade, github, mass-release, auto-vote, accurate,poketwo official server, poketwo auto catcher, poketwo helper bot, poketwo hack, poketwo rich, poketwo cheat, download,poketwo coins, poketwo shiny, online, how-to-get-rich-in-poketwo , Banerus, Fuzzy, AI, Poketwo , latest, 2021, working"/>
+<meta name="keywords" content="Poketwo, Poketwo AutoCatcher, Poketwo Hack, poketwo selfbot, Poketwo vote, poketwo discord bot, poketwo bot, premium, poketwo commands, Safe autocatcher, catch pokemon, poketwo-hack, poketwo-autocatcher, youtube, poketwo free, poketwo paid, mass trade, github, mass-release, auto-vote, accurate,poketwo official server, poketwo auto catcher, poketwo helper bot, poketwo hack, poketwo rich, poketwo cheat, download,poketwo coins, poketwo shiny, online, how-to-get-rich-in-poketwo , Banerus, Fuzzy, AI, Poketwo , latest, 2024, working"/>
 
 <meta name="author" content="Team-banerus"/>
 <meta name="url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
