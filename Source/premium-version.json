@@ -1,7 +1,8 @@
 {
-  "version": "v8.7.0",
+  "version": "v10.0.7",
   "updates": [
-    "Implemented updates to the software packages for improved functionality and security.",
-    "Enhanced the graphical user interface through minor updates and changes to improve user experience."
+    "Added Generation 9 pokemons into ranking & Priority system (Legendary,Mythical,UB,etc)",
+    "Introduced new AI models and catch languages",
+    "Rewrote detection library for multiple bots"
   ]
 }
