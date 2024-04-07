@@ -1,1 +1,15 @@
--
+version: '3.5'
+
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./app:/app
+
+      
+# run with cmd: docker-compose up
+# access the application at http://localhost:3000.
