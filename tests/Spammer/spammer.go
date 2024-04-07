@@ -80,5 +80,26 @@ func spamFunc(session *discordgo.Session, channelID string, interval int, messag
 }
 
 func main() {
-	// Initialize Discord session and other necessary components
+	// Initialize Discord session
+	dg, err := discordgo.New("Bot YOUR_DISCORD_BOT_TOKEN")
+	if err != nil {
+		log.Fatalf("Error creating Discord session: %v", err)
+		return
+	}
+
+	// Register messageCreate as a callback for the messageCreate events
+	dg.AddHandler(messageCreate)
+
+	// Open a websocket connection to Discord and begin listening for events
+	err = dg.Open()
+	if err != nil {
+		log.Fatalf("Error opening Discord session: %v", err)
+		return
+	}
+	defer dg.Close()
+
+	// other Components here nexus.
+	
+	// Keep the main thread running
+	select {}
 }
