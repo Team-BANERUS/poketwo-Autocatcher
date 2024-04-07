@@ -31,7 +31,7 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" alt="poketwo logo" align="right" height="120px"><h1>ABOUT</h1>
 **The Most Light-Weighted Program/system To Autocatch on any device with Ease of handling & tons of Features for Poketwo.**
-> **`Current Version:` 9.0.6** (Updated on 2023)
+> **`Current Version:` v10.0.9** (Updated on 2024)
 
 IMG/catching
 
@@ -67,7 +67,7 @@ IMG/catching
 <h3>Honorable presence </h3>
   <h5>• LightWeight program | Professionally designed & coded with Premium delight Looks </h5>
   <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about ruling Poketwo.</h5>
-  <h5>• Gen 8 included & automatic captcha solving.</h5>
+  <h5>• Gen 9 included & automatic captcha solving.</h5>
 
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-banerus-line.gif" width="9000px">
 
