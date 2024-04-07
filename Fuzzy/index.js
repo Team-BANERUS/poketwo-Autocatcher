@@ -51,6 +51,7 @@ const currentVersion = "v7.0.1";
 const client = new Client({
 	checkUpdate: false
 });
+
 const webhookClient = new WebhookClient({
 	url: logWebhook
 });
