@@ -1,6 +1,6 @@
 @echo off
 title Banerus Autocatcher - Poketwo
 
-node catcher.js
+node Catcher.js
 
 timeout -2
