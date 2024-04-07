@@ -1,0 +1,48 @@
+{
+	"legendary": [
+        "Articuno", "Azelf", "Cobalion", "Cosmoem", "Cosmog",
+        "Cresselia", "Dialga", "Entei", "Giratina", "Groudon",
+        "Heatran", "Ho-Oh", "Kyogre", "Kyurem", "Landorus",
+        "Latias", "Latios", "Lugia", "Lunala", "Mesprit",
+        "Mewtwo", "Moltres", "Necrozma", "Palkia", "Raikou",
+        "Rayquaza", "Regice", "Regigigas", "Regirock", "Registeel",
+        "Reshiram", "Silvally", "Solgaleo", "Suicune", "Tapu Bulu",
+        "Tapu Fini", "Tapu Koko", "Tapu Lele", "Terrakion", "Thundurus",
+        "Tornadus", "Type: Null", "Uxie", "Virizion", "Xerneas",
+        "Yveltal", "Zapdos", "Zekrom", "Zygarde"
+    ],
+	"mythical": [
+        "Arceus", "Celebi", "Darkrai", "Deoxys", "Diancie",
+        "Genesect", "Hoopa", "Jirachi", "Keldeo", "Magearna",
+        "Manaphy", "Marshadow", "Melmetal", "Meloetta", "Meltan",
+        "Mew", "Phione", "Shaymin", "Victini", "Volcanion", "Zeraora"
+    ],
+    "ultrabeast": [
+        "Blacephalon", "Buzzwole", "Celesteela", "Guzzlord",
+        "Kartana", "Naganadel", "Nihilego", "Pheromosa",
+        "Poipole", "Stakataka", "Xurkitree"
+    ],
+    "forms": [
+        "10% Zygarde", "Alola Diglett", "Alola Dugtrio", "Alola Exeggutor", "Alola Geodude",
+        "Alola Golem", "Alola Graveler", "Alola Grimer", "Alola Marowak", "Alola Meowth",
+        "Alola Muk", "Alola Ninetales", "Alola Persian", "Alola Pikachu Cap", "Alola Raichu",
+        "Alola Raticate", "Alola Rattata", "Alola Sandshrew", "Alola Sandslash", "Alola Vulpix",
+        "Ash Greninja", "Attack Deoxys", "Belle Pikachu", "Black Kyurem", "Blade Aegislash",
+        "Blue Basculin Striped", "Complete Zygarde", "Defense Deoxys", "Fan Rotom", "Frost Rotom",
+        "Heat Rotom", "Mega Abomasnow", "Mega Absol", "Mega Aerodactyl", "Mega Aggron",
+        "Mega Alakazam", "Mega Altaria", "Mega Ampharos", "Mega Audino", "Mega Banette",
+        "Mega Beedrill", "Mega Blastoise", "Mega Blaziken", "Mega Camerupt", "Mega Charizard X",
+        "Mega Charizard Y", "Mega Diancie", "Mega Gallade", "Mega Garchomp", "Mega Gardevoir",
+        "Mega Gengar", "Mega Glalie", "Mega Gyarados", "Mega Heracross", "Mega Houndoom",
+        "Mega Kangaskhan", "Mega Latias", "Mega Latios", "Mega Lopunny", "Mega Lucario",
+        "Mega Manectric", "Mega Mawile", "Mega Medicham", "Mega Metagross", "Mega Mewtwo X",
+        "Mega Mewtwo Y", "Mega Pidgeot", "Mega Pinsir", "Mega Rayquaza", "Mega Sableye",
+        "Mega Salamence", "Mega Sceptile", "Mega Scizor", "Mega Sharpedo", "Mega Slowbro",
+        "Mega Steelix", "Mega Swampert", "Mega Tyranitar", "Mega Venusaur", "Mow Rotom",
+        "Origin Giratina", "Pau' Oricorio", "Pirouette Meloetta", "Pom Oricorio Pom", "Primal Groudon",
+        "Primal Kyogre", "Rainy Castform", "Resolute Keldeo", "Sandy Wormadam", "Sensu Oricorio",
+        "Sky Shaymin", "Snowy Castform", "Speed Deoxys", "Sunny Castform", "Therian Landorus",
+        "Therian Thundurus", "Therian Tornadus", "Trash Wormadam", "Unbound Hoopa", "Wash Rotom",
+        "White Kyurem", "Zen Darmanitan"
+    ]
+}
