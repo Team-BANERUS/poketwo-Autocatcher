@@ -1,1 +1,1 @@
-Storage for md-assests to be Used.
+Storage of images/content used in repo and linked within program.
