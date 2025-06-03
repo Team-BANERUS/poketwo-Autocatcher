@@ -77,8 +77,8 @@ Discord Server: https://discord.gg/skwEWhWGWw01 (remove 01 from the end) </br>
 <ins>Make sure to DM me only and avoid exposure about buying it in the Discord Server</ins>
 
   <h2> Check out the promo video: </h2>
-  <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
-    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/Poketwo-thumb.jpg" width="380" />
+  <a href="https://www.youtube.com/watch?v=g8p6pirnEhY">
+    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/poketwo-autocatcher-2025.png" width="480" />
   </a>
                                                                                                                           
 
