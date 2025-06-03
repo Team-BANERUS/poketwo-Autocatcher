@@ -12,7 +12,7 @@
 
 <meta name="description" content="This AutoCatcher was designed to automatically catch Pokemon spawned on Discord by Poketwo bot. It also offers other utility functions to automate features to make your rich in Poketwo like Mass-trading, Cross-trade, Mass releasing, ID search, Market sniper , etc. Apart from autocatching, the bot extends its features to easy customization with easy setup."/>
 
-<meta name="keywords" content="Poketwo, Poketwo AutoCatcher, Poketwo Hack, poketwo selfbot, Poketwo vote, poketwo discord bot, poketwo bot, premium, poketwo commands, Safe autocatcher, catch pokemon, poketwo-hack, poketwo-autocatcher, youtube, poketwo free, poketwo paid, mass trade, github, mass-release, auto-vote, accurate,poketwo official server, poketwo auto catcher, poketwo helper bot, poketwo hack, poketwo rich, poketwo cheat, download,poketwo coins, poketwo shiny, online, how-to-get-rich-in-poketwo , Banerus, Fuzzy, AI, Poketwo , latest, 2024, working"/>
+<meta name="keywords" content="Poketwo, Poketwo AutoCatcher, Poketwo Hack, poketwo selfbot, Poketwo vote, poketwo discord bot, poketwo bot, premium, poketwo commands, Safe autocatcher, catch pokemon, poketwo-hack, poketwo-autocatcher, youtube, poketwo free, poketwo paid, mass trade, github, mass-release, auto-vote, accurate,poketwo official server, poketwo auto catcher, poketwo helper bot, poketwo hack, poketwo rich, poketwo cheat, download,poketwo coins, poketwo shiny, online, how-to-get-rich-in-poketwo , Banerus, Fuzzy, AI, Poketwo , latest, 2024, working, 2025, poketwo auto catch, poketwo auto catcher, poketwo auto catcher mobile"/>
 
 <meta name="author" content="Team-banerus"/>
 <meta name="url" content="https://github.com/team-banerus/Poketwo-autocatcher" />
@@ -31,7 +31,7 @@ The most legit & advanced Poketwo autocatcher and one click setup with ease of h
 
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" alt="poketwo logo" align="right" height="120px"><h1>ABOUT</h1>
 **The Most Light-Weighted Program/system To Autocatch on any device with Ease of handling & tons of Features for Poketwo.**
-> **`Current Version:` v10.0.9** (Updated on 2024)
+> **`Current Version:` v10.0.9** (Updated on 2025)
 
 IMG/catching
 
